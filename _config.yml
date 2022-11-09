@@ -1,40 +1,40 @@
 # Basic Information 
-title: Yaoyao Liu
+title: Sunham Kim
 position: Ph.D. Candidate
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: yaoyao.liu (at) mpi-inf.mpg.de
+affiliation: Krannert School of Management, Purdue University
+affiliation_link: https://krannert.purdue.edu/
+email: sh-kim (at) purdue.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.mpi-inf.mpg.de/~yaliu/
-description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
+keywords: sunham kim, kim sunham, sunhamkim, kimsunham, sunham
+canonical: https://sunhamkim.github.io
+description: Sunham Kim is a Ph.D. candidate at Purdue University. His research insterest includes spatial economics, international trade, macroeconomics, and human capital.
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+enable_mpi_logo: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://files.yliu.me/Yaoyao_Liu_Resume.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+# google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+# cv_link: https://files.yliu.me/Yaoyao_Liu_Resume.pdf
+github_link: https://github.com/sunhamkim/
+linkedin: https://www.linkedin.com/in/sunhamkim/
+# twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
+avatar: ./files/img/profile_1.jpg
+favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
-google_analytics: UA-111540567-4
-clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kCAdS0QjP0
-
+google_analytics: G-3B09YM4Y7W
+# clustrmaps_link: //clustrmaps.com/globe.js?d=QsP-3Qm0fSNU94UxmGJF47QKd4gsH-E2IA0XQyxXREM
+                   
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
-imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
+#imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
+#data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
 # The following files will be removed from the generated website.
 exclude:
