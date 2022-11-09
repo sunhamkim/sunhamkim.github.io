@@ -1,10 +1,10 @@
-# yaoyao-liu.github.io
+# sunhamkim.github.io
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
-This is the latest version of my homepage's source code. Feel free to use and share.
+This is the latest version of my homepage's source code. I forked this from [here](https://github.com/yaoyao-liu/yaoyao-liu.github.io).
 <br />
-For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
+For more details, please refer to <https://github.com/yaoyao-liu/minimal-light> as well.
 
 ### Project Architecture
 
