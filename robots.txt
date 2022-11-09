@@ -1,7 +1,8 @@
 User-agent: *
 Allow: index.html
 Allow: /my_images/
-Allow: /files/
+Allow: /files/pdf/
+Disallow: /files/img/
 Disallow: /assets/academicons/
 Disallow: /assets/css/
 Disallow: /assets/fonts/
