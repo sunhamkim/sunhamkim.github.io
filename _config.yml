@@ -15,7 +15,7 @@ enable_mpi_logo: false
 
 # Links
 # google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-# cv_link: https://files.yliu.me/Yaoyao_Liu_Resume.pdf
+cv_link: ./files/pdf/KangKangKim.pdf/
 github_link: https://github.com/sunhamkim/
 linkedin: https://www.linkedin.com/in/sunhamkim/
 # twitter: https://twitter.com/YaoyaoLiu1/
@@ -29,7 +29,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
 google_analytics: G-3B09YM4Y7W
-# clustrmaps_link: //clustrmaps.com/globe.js?d=QsP-3Qm0fSNU94UxmGJF47QKd4gsH-E2IA0XQyxXREM
+clustrmaps_link: //clustrmaps.com/globe.js?d=QsP-3Qm0fSNU94UxmGJF47QKd4gsH-E2IA0XQyxXREM
                    
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
