@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu).
-
-[Curriculum Vitae](https://sunhamkim.github.io/files/pdf/CurriculumVitae_SKim.pdf){:target="_blank" rel="noopener"} 
+Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu). [[Curriculum Vitae](./cv.html){:target="_blank" rel="noopener"}]
 <!--
 , supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [ELLIS Ph.D. Program](https://ellis.eu/phd-postdoc), I am co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/), with a planned exchange in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). Meanwhile, I also work closely with [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
 -->
