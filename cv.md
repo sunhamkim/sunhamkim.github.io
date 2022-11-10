@@ -7,8 +7,8 @@ You can download my CV [here](https://sunhamkim.github.io/files/pdf/CurriculumVi
 <style>
 /* Only resize the element if PDF is embedded */
 .pdfobject-container {
-   width: 450px;
-   height: 400px;
+   width: 480px;
+   height: 600px;
 }
 </style>
 
