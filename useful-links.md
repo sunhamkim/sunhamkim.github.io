@@ -31,4 +31,4 @@ layout: homepage
 * Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
 
 
-[back](./)
+[[back](./)]
