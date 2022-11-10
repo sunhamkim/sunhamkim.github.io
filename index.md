@@ -16,6 +16,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 <strong style="color:#e74d3c; font-weight:600"> </strong>
 -->
 
+---
 ## Work in Progess
 - **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
 - **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare**
