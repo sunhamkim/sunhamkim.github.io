@@ -35,11 +35,12 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
 <ul style="margin:0 0 5px;">
-  <li> Microeconomics (Summer 2019), [Instructor Eval 4.7/5.0](https://sunhamkim.github.io/files/pdf/TeachingEvalSU19.PDF){:target="_blank" rel="noopener"})</li>
+  <li> Microeconomics (Summer 2019), 
+    <a target="_blank" rel="noopener" href="https://sunhamkim.github.io/files/pdf/TeachingEvalSU19.PDF/"><autocolor>[Instructor Eval 4.7/5.0] </autocolor></a></li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Purdue University</h4>
 <ul style="margin:0 0 5px;">
-  <li>Undergraduate:  Principle of Economics (Fall 2017), Macroeconomics (Spring 2018), International Trade (Spring 2021), Labor Economics (Summer 2022 </li>
+  <li>Undergraduate:  Principle of Economics (Fall 2017), Macroeconomics (Spring 2018), International Trade (Spring 2021), Labor Economics (Summer 2022) </li>
   <li>PhD: Microeconomics II (Fall 2018)</li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Yonsei University</h4>
