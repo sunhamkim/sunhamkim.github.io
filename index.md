@@ -23,11 +23,9 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 - **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare**
   <br>
   with [Chong Xiang](https://krannert.purdue.edu/directory/bio.php?username=cxiang){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
-
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
-
 - **Can Land-Use Policy Defy Regional Decline?** 
   <br>
   with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"}
