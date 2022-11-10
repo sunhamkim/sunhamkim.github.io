@@ -36,7 +36,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
 <ul style="margin:0 0 5px;">
   <li> Microeconomics (Summer 2019), 
-    <a target="_blank" rel="noopener" href="https://sunhamkim.github.io/files/pdf/TeachingEvalSU19.PDF/"><autocolor>[Instructor Eval 4.7/5.0] </autocolor></a></li>
+    [<a target="_blank" rel="noopener" href="https://sunhamkim.github.io/files/pdf/TeachingEvalSU19.PDF/"><autocolor>Instructor Eval 4.7/5.0 </autocolor></a>]</li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Purdue University</h4>
 <ul style="margin:0 0 5px;">
