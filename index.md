@@ -17,7 +17,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 -->
 
 ## Work in Progess
-- **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States (JMP)**
+- **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
 - **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare**
   <br>
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
