@@ -65,3 +65,6 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 ## Contact
 **Address:** [320 Krannert Building, 403 W. State Stree, West Lafayette, IN 47907](https://krannert.purdue.edu/)
 -->
+
+---
+[Useful Links](./useful-links.html)
