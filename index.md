@@ -57,7 +57,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
 </ul>
 <!--
 ## Contact
