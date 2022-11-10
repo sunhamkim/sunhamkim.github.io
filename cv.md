@@ -14,7 +14,7 @@ You can download my CV [here](https://sunhamkim.github.io/files/pdf/CurriculumVi
 
 <div id="my-pdf"></div>
 
-<script src="./assets/js/pdfobject.js"></script>
+<script src="https://sunhamkim.github.io/assets/js/pdfobject.js"></script>
 
 <script>
   var options = {
