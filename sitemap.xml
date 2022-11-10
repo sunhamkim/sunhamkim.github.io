@@ -13,4 +13,18 @@
  <changefreq>weekly</changefreq>
 </url>
 
+<url>
+ <loc>https://sunhamkim.github.io/cv.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-11-08</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://sunhamkim.github.io/useful-links.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-11-08</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+    
 </urlset>
