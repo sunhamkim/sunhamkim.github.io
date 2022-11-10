@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu). [[Curriculum Vitae](./cv.html)]
+Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu). [[Vitae](./cv.html)]
 
 ---
 ## Research Interests
