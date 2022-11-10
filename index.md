@@ -47,6 +47,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   <li>MBA: Personnel Economics (Fall 2015-Spring 2016), Microeconomics (Spring 2015-2016)</li>
 </ul>
 
+
 ## Services
 <h4 style="margin:0 10px 0;">Conference Session Chair/Discussant</h4>
 <ul style="margin:0 0 5px;">
