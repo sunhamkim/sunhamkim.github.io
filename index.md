@@ -29,6 +29,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   <br>
   with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"}
 
+<!--
 ---
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
@@ -60,10 +61,16 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 <ul style="margin:0 0 20px;">
   <li><a target="_blank" rel="noopener" href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
 </ul>
+
+
+-->
+
 <!--
 ## Contact
 **Address:** [320 Krannert Building, 403 W. State Stree, West Lafayette, IN 47907](https://krannert.purdue.edu/){:target="_blank" rel="noopener"} 
 -->
+
+
 
 ---
 [Useful Links](./useful-links.html)
