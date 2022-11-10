@@ -23,7 +23,7 @@ linkedin: https://www.linkedin.com/in/sunhamkim/
 # Images 
 avatar: ./files/img/profile_1.jpg
 favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon.ico
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
@@ -33,8 +33,8 @@ clustrmaps_link: //clustrmaps.com/globe.js?d=QsP-3Qm0fSNU94UxmGJF47QKd4gsH-E2IA0
                    
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
-#imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-#data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
+# imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
+# data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
 # The following files will be removed from the generated website.
 exclude:
