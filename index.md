@@ -27,6 +27,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 - **Can Land-Use Policy Defy Regional Decline?** 
   <br>
   with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"}
+
 ---
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
