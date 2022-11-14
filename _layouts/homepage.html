@@ -2,7 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <title>{{ site.title }}'s Homepage</title>
-
+    {% if site.google_tag %}
+      {% include /analytics-providers/google-gtag.html %}
+    {% endif %}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="{{ site.title }}">
