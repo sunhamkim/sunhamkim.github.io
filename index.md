@@ -29,11 +29,6 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
   [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
-- **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
-  <br>
-  with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
-  [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
-  
   
 <!--
 ---
