@@ -78,7 +78,4 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 
 
 ---
-Mantra: "Not all those who wander are lost."
-
----
 [Useful Links](./useful-links.html)
