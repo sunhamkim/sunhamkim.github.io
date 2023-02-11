@@ -30,9 +30,9 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
   [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
   <br>
-  [[Media Coverage: The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}] (in Korean)
-<!--
+  Media Coverage: [[The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}] (in Korean)
 ---
+<!--
 
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
@@ -64,7 +64,6 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 <ul style="margin:0 0 20px;">
   <li><a target="_blank" rel="noopener" href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
 </ul>
-
 
 -->
 
