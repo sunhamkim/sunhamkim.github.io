@@ -72,7 +72,10 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 **Address:** [320 Krannert Building, 403 W. State Stree, West Lafayette, IN 47907](https://krannert.purdue.edu/){:target="_blank" rel="noopener"} 
 -->
 
-
-
 ---
 [Useful Links](./useful-links.html)
+
+---
+Mantra
+- "All that is gold does not glitter, Not all those who wander are lost." (_The Lord of the Rings_)
+- "Dying is easy, young man. Living is harder." (_Hamilton: An American Musical_)
