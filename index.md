@@ -18,7 +18,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 
 ---
 ## Working Papers
-- **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
+- **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States** [Draft available upon request]
 - **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare** 
   <br>
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
