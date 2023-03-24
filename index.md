@@ -17,12 +17,12 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 -->
 
 ---
-## Work in Progess
+## Working Papers
 - **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
-- **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare**
+- **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare** 
   <br>
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
-- **Can Land-Use Policy Defy Regional Decline?** 
+- **Can Land-Use Policy Defy Regional Decline?** [Draft available upon request]
   <br>
   with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"}
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
@@ -79,3 +79,4 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 Mantra
 - "All that is gold does not glitter, Not all those who wander are lost." (_The Lord of the Rings_)
 - "Dying is easy, young man. Living is harder." (_Hamilton: An American Musical_)
+---
