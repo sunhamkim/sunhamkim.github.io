@@ -3,13 +3,16 @@ layout: homepage
 ---
 ## About Me
 Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu). [[Vitae](./cv.html)]
+
 ---
 ## Research Interests
 - Spatial economics, International trade, Macroeconomics
 - Labor economics, Human capital
+
 <!--
 <strong style="color:#e74d3c; font-weight:600"> </strong>
 -->
+
 ---
 ## Work in Progess
 - **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
