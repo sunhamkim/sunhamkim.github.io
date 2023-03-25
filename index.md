@@ -25,8 +25,8 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
   <br>
   Media Coverage: [[The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}] (in Korean)
+  
 <!--
----
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
 <ul style="margin:0 0 5px;">
@@ -44,7 +44,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   <li>Graduate: Labor Economics (Spring 2014-2016)</li>
   <li>MBA: Personnel Economics (Fall 2015-Spring 2016), Microeconomics (Spring 2015-2016)</li>
 </ul>
----
+
 ## Services
 <h4 style="margin:0 10px 0;">Conference Session Chair/Discussant</h4>
 <ul style="margin:0 0 5px;">
@@ -56,6 +56,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   <li><a target="_blank" rel="noopener" href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
 </ul>
 -->
+
 <!--
 ## Contact
 **Address:** [320 Krannert Building, 403 W. State Stree, West Lafayette, IN 47907](https://krannert.purdue.edu/){:target="_blank" rel="noopener"} 
