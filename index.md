@@ -14,14 +14,14 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 -->
 
 ---
-## Work in Progess
+## Working Papers
 - **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
 - **Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare**
   <br>
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
-- **Can Land-Use Policy Defy Regional Decline?** 
+- **Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities** 
   <br>
-  with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"}
+  with [Seungyub Han](https://www.seungyubhan.net/){:target="_blank" rel="noopener"} [Draft available upon request]
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
