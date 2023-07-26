@@ -21,14 +21,14 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
 - **Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities** 
   <br>
-  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} [[Latest Draft](https://sunhamkim.github.io/files/pdf/HanKim.pdf){:target="_blank" rel="noopener"}]
+  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} <a href="{{ https://sunhamkim.github.io/files/pdf/HanKim.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
   [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
   <br>
   Media Coverage: [[The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}] (in Korean)
-  
+ 
 <!--
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
