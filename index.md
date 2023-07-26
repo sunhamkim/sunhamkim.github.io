@@ -21,7 +21,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
 - **Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities** 
   <br>
-  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} <a href="{{ https://sunhamkim.github.io/files/pdf/HanKim.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} <a href="{ https://sunhamkim.github.io/files/pdf/HanKim.pdf }" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
