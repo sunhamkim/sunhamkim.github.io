@@ -22,7 +22,7 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
   with [Chong Xiang](https://sites.google.com/view/chongxiang/home){:target="_blank" rel="noopener"} and [Soojin Kim](https://sites.google.com/site/soojinkim06/){:target="_blank" rel="noopener"}
 - **Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities** 
   <br>
-  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} [[Latest Draft](https://sunhamkim.github.io/files/pdf/HanKim.pdf){:target="_blank" rel="noopener"}]
+  with [Seungyub Han](https://hansy1124.github.io/){:target="_blank" rel="noopener"} [[Latest Draft](https://www.anderson.ucla.edu/sites/default/files/document/2023-07/2023-13WP.pdf){:target="_blank" rel="noopener"}] (UCLA Ziman Center WP No. 2023-13)
 - **School Closure and Educational Inequality: Parental Investment in the Pandemic** 
   <br>
   with [Hyunjae Kang](https://www.hyunjaekang.com/home){:target="_blank" rel="noopener"} and Tae Young Kang 
