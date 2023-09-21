@@ -470,9 +470,10 @@ footer {
   text-align:center;
 }
 
-@media (min-width: 1280px)
-body {
-    transform: scale(1.3);
+@media (min-width: 1280px) {
+    body {
+        transform: scale(1.2); /* 120% scale for desktop screens */
+    }
 }
 
 @media print, screen and (max-width: 960px) {
