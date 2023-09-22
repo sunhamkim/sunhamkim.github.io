@@ -24,7 +24,7 @@
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Draft</a>
       {% endif %}
       {% if link.abstact %} 
-      <a href="{{ link.abstact }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="{{ link.abstact }}" class="btn btn-sm z-depth-0" role="abstract-toggle-button" target="_blank" style="font-size:12px;">Abstract</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -42,7 +42,10 @@
       {{ link.others }}
       {% endif %}
     </div>
-      
+      {% if link.abstract%}
+      <div class="abstract-content col-sm-12" style="display: none;">
+      </div>
+      {% endif %}
   </div>
 </div>
 </li>
@@ -52,4 +55,11 @@
 </ol>
 </div>
 
-
+<script>
+  document.querySelectorAll('.abstract-toggle-button').forEach(function(button) {
+    button.addEventListener('click', function() {
+      var abstractContent = button.nextElementSibling;
+      abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+    });
+  });
+</script>
