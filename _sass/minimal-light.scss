@@ -560,6 +560,9 @@ footer {
     display: block; 
     align-items: center;}
 
+  .author, .conference {
+      display: block; /* Display on separate lines */}
+
   body {
     padding:15px;
   }
