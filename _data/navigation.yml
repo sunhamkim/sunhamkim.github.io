@@ -1,0 +1,23 @@
+main:
+
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
+
+  #- title: "Services"
+  #  url: ./#services
+
+  #- title: "Talks"
+  #  url: ./#invited-talks
+
+  #- title: "Teaching"
+  #  url: ./#teaching
+
+  - title: "Research"
+    url: ./#ongoing
+
+  #- title: "News"
+  #  url: ./#news
+
+  - title: "About Me"
+    url: ./#about-me
