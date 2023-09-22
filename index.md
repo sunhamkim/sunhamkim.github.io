@@ -39,7 +39,7 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
 {% include_relative _includes/ongoing.md %}
  ---
 {% include_relative _includes/teaching.md %}
- ---
+ <!-- --- -->
 <!-- {% include_relative _includes/services.md %} -->
  ---
 {% include_relative _includes/contact.md %}
