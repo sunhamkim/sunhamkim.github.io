@@ -43,8 +43,9 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
  ---
 {% include_relative _includes/contact.md %}
  ---
-[Useful Links](./useful-links.html)
- ---
+<!-- [Useful Links](./useful-links.html) -->
+ <!-- --- -->
+
 Mantra
 - "All that is gold does not glitter, Not all those who wander are lost." (_The Lord of the Rings_)
 - "Dying is easy, young man. Living is harder." (_Hamilton: An American Musical_)
