@@ -1,12 +1,12 @@
 <h1 id="ongoing"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Working Papers</temp></h2>
+<h2 style="margin: 60px 0px -15px;">Working Papers</h2>
 
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.ongoing.main %}
 
 <li>
 <div class="pub-row">
