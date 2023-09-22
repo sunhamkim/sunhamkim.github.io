@@ -30,6 +30,8 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
   <br>
   Media Coverage (Korean): [[The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}]
  
+{% include_relative _includes/ongoing.md %}
+
 <!--
 ## Teaching
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
