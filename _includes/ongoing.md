@@ -12,7 +12,7 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
-      <span class="author">{{ link.authors }}</span>
+      <div class="author" style="display: inline;">{{ link.authors }}</div>
       {% if link.conference %} 
       <span class="periodical"><em>{{ link.conference }}</em></span>
       {% endif %}
