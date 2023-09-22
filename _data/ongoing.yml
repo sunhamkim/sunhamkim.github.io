@@ -11,7 +11,7 @@ main:
 #    image: https://img.yliu.me/teaser/miccai2023.png
 #    notes: Early Accept
 
-  - title: Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare
+  - title: "Care for the China Syndrome Trade Shock, Sick Workers, and Access to Healthcare"
     authors: with <a href="https://sites.google.com/view/chongxiang/home">Chong Xiang</a> and  <a href="https://sites.google.com/site/soojinkim06">Soojin Kim</a>
 #    conference_short: MICCAI
 #    conference: presented at here, there and <strong>(THERE)</strong>, 2023.
@@ -21,12 +21,12 @@ main:
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    notes: Early Accept
 
-  - title: Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities
+  - title: "Building Housing: The Allocative Efficiency of Creating New Cities Versus Expanding Existing Cities"
     authors: with <a href="https://hansy1124.github.io/">Seungyub Han</a>
     pdf: https://www.anderson.ucla.edu/sites/default/files/document/2023-07/2023-13WP.pdf
     conference: UCLA Ziman Center WP No. 2023-13
 
-  - title: School Closure and Educational Inequality: Parental Investment in the Pandemic
+  - title: "School Closure and Educational Inequality: Parental Investment in the Pandemic"
     authors: with <a href="https://hansy1124.github.io/">Hyunjae Kang</a> and Tae Young Kang
     pdf: https://sunhamkim.github.io/files/pdf/KangKangKim.pdf
-    conference: Media Coverage (Korean): <a href="https://www.khan.co.kr/national/national-general/article/202211301346001">The Kyunghyanng Shinmun</a>
+    conference: "Media Coverage (Korean): "<a href="https://www.khan.co.kr/national/national-general/article/202211301346001">The Kyunghyanng Shinmun</a>
