@@ -37,9 +37,6 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
 {% include_relative _includes/teaching.md %}
  ---
 {% include_relative _includes/contact.md %}
-
-
-
 <!--
 ## Services
 <h4 style="margin:0 10px 0;">Conference Session Chair/Discussant</h4>
@@ -52,7 +49,6 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
   <li><a target="_blank" rel="noopener" href="https://www.tandfonline.com/journals/riej20"><autocolor>International Economic Journal</autocolor></a></li>
 </ul>
 -->
-
 ---
 [Useful Links](./useful-links.html)
 
