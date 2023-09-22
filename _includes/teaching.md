@@ -13,8 +13,8 @@
 
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
 <ul style="margin:0 0 5px;">
-  <li> Microeconomics (Summer 2019), 
-    [<a target="_blank" rel="noopener" href="https://sunhamkim.github.io/files/pdf/TeachingEvalSU19.PDF"><autocolor>Instructor Eval 4.7/5.0</autocolor></a>]</li>
+  <li> Microeconomics (Summer 2019), Instructor Eval 4.7/5.0</li>
+  <li> Overview of Casual Inference (Fall 2022), Volunteer for Purdue Econ Association (Undergraduate Club)</li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Purdue University</h4>
 <ul style="margin:0 0 5px;">
