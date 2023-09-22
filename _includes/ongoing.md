@@ -1,6 +1,6 @@
 <h1 id="ongoing"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Working Papers</h2>
+<h2 style="margin: 0px 0px -15px;">Working Papers</h2>
 
 
 <div class="publications">
