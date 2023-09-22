@@ -13,7 +13,7 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
 <!--
 <strong style="color:#e74d3c; font-weight:600"> </strong>
 -->
-
+<!--
 ---
 ## Working Papers
 - **Skill Multidimensionality, Worker Migration, and Development Accounting of U.S. States**
@@ -29,7 +29,9 @@ I will be on the 2023-2024 job market and will be attending the [UEA 2023 Toront
   [[Latest Draft](https://sunhamkim.github.io/files/pdf/KangKangKim.pdf){:target="_blank" rel="noopener"}]
   <br>
   Media Coverage (Korean): [[The Kyunghyang Shinmun](https://www.khan.co.kr/national/national-general/article/202211301346001){:target="_blank" rel="noopener"}]
- 
+ -->
+
+ ---
 {% include_relative _includes/ongoing.md %}
 
 <!--
