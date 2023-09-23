@@ -53,9 +53,6 @@
 
 {% endfor %}
 
-  <!-- Abstract text here -->
-</div>
-
 </ol>
 </div>
 
