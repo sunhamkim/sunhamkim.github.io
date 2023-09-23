@@ -33,11 +33,8 @@
     <meta name="twitter:image" content="{{ site.avatar }}">
 
     <link rel="canonical" href="{{site.canonical}}"/>
-
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -46,6 +43,29 @@
 
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    
+    <script type="text/javascript">
+      function toggle_vis(id) {
+          var e = document.getElementById(id);
+          if (e.style.display == 'none')
+              e.style.display = 'inline';
+          else
+              e.style.display = 'none';
+      }
+   </script>
+
+   <script>
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+      }
+   </script>
+   
 
   </head>
   <body>
