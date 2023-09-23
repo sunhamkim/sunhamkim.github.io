@@ -52,7 +52,9 @@
 </li>
 
 {% endfor %}
-      
+
+  <!-- Abstract text here -->
+</div>
 
 </ol>
 </div>
@@ -60,11 +62,18 @@
 <script>
   function toggleAbstract(button) {
     console.log('toggleAbstract function triggered!');
+    console.log('Clicked button:', button);
     
     var abstractContent = button.nextElementSibling;
-    // Check if the next sibling is the correct element, if not, traverse to find it.
-    while (abstractContent && !abstractContent.classList.contains('abstract-content')) {
+    // Log the siblings being traversed
+    var i = 1;
+    while (abstractContent) {
+        console.log('Sibling ' + i + ':', abstractContent);
+        if (abstractContent.classList.contains('abstract-content')) {
+            break;
+        }
         abstractContent = abstractContent.nextElementSibling;
+        i++;
     }
     
     if (abstractContent) {
@@ -72,5 +81,5 @@
     } else {
         console.error('abstractContent is null. Check the HTML structure.');
     }
-  }
+}
 </script>
