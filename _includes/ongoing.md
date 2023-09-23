@@ -24,7 +24,7 @@
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Draft</a>
       {% endif %}
       {% if link.abstract %} 
-      <button class="btn btn-sm z-depth-0 abstract-toggle-button" style="font-size:12px;">Abstract</button>
+      <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -42,8 +42,9 @@
       {{ link.others }}
       {% endif %}
     </div>
-      {% if link.abstract%}
+      {% if link.abstract %}
       <div class="abstract-content col-sm-12" style="display: none;">
+        {{ link.abstract }}
       </div>
       {% endif %}
   </div>
