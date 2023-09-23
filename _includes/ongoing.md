@@ -23,7 +23,7 @@
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Draft</a>
       {% endif %}
-      {% if link.abstact %} 
+      {% if link.abstract %} 
       <a href="{{ link.abstract }}" class="btn btn-sm z-depth-0" role="abstract-toggle-button" target="_blank" style="font-size:12px;">Abstract</a>
       {% endif %}
       {% if link.code %} 
