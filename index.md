@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+<br/><br/>
 <h1 id="about-me"></h1>
 
 <h2 style="margin: 0px 0px 10px;">About Me</h2>
