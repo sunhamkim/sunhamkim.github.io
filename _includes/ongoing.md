@@ -58,10 +58,9 @@
 </div>
 
 <script>
-  document.querySelectorAll('.abstract-toggle-button').forEach(function(button) {
-    button.addEventListener('click', function() {
-      var abstractContent = button.nextElementSibling;
-      abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
-    });
-  });
+  function toggleAbstract(button) {
+    console.log('toggleAbstract function triggered!');
+    var abstractContent = button.nextElementSibling;
+    abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+  }
 </script>
