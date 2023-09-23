@@ -60,7 +60,17 @@
 <script>
   function toggleAbstract(button) {
     console.log('toggleAbstract function triggered!');
+    
     var abstractContent = button.nextElementSibling;
-    abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+    // Check if the next sibling is the correct element, if not, traverse to find it.
+    while (abstractContent && !abstractContent.classList.contains('abstract-content')) {
+        abstractContent = abstractContent.nextElementSibling;
+    }
+    
+    if (abstractContent) {
+        abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+    } else {
+        console.error('abstractContent is null. Check the HTML structure.');
+    }
   }
 </script>
