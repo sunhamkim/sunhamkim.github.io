@@ -7,16 +7,12 @@
     width:100%;
   }
 
-  /* .topnav #logo,
-  .topnav #logo a {
-    display: inline;
-    float: left;
-    color: #f2f2f2;
-    white-space: nowrap;
-    text-decoration: none;
-    font-size: 17px;
-    font-weight: bold;
-  } */
+.blank-div {
+  /* Your default styles for the div, if any */
+  /* For example: */
+  height: 20px; /* or any height you prefer */
+  background-color: #f0f0f0; /* or any color for visibility */
+}
 
   .topnav #myLinks {
     display: inline;
@@ -130,7 +126,9 @@
     .topnav #myLinks {
         display: none;
       }
-
+    .blank-div {
+      display: none;
+    }
     /* .topnav #logo {
       display: none;
     } */
@@ -141,9 +139,9 @@
         display: none;
       }
 
-      /* .topnav #logo {
+      .blank-div {
         display: none;
-      } */
+      }
 
       .topnav a.normal {
         color: white;

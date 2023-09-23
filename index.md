@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-<br/><br/>
+<div class="blank-div" style="display: block; margin-top: 5px; margin-left: 0px; margin-right: 0; margin-bottom: 5px;"></div>
 <h1 id="about-me"></h1>
 
 <h2 style="margin: 0px 0px 10px;">About Me</h2>
