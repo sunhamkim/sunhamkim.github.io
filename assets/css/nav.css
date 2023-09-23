@@ -124,10 +124,18 @@
     .topnav #myLinks {
         display: none;
       }
+
+    .topnav #logo {
+      display: none;
+    }
    }
 
    @media print, screen and (max-width: 960px) { 
-    .topnav #myLinks {
+      .topnav #myLinks {
+        display: none;
+      }
+      
+      .topnav #logo {
         display: none;
       }
 
