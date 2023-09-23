@@ -43,7 +43,7 @@
       {% endif %}
     </div>
       {% if link.abstract %}
-      <div class="abstract-content col-sm-12" style="display: none; margin-top: 10px; margin-left: 0px; margin-right: 15px;">
+      <div class="abstract-content col-sm-12" style="display: none; margin-top: 10px; margin-left: 0px; margin-right: 15px; margin-bottom: 10px;">
         {{ link.abstract }}
       </div>
       {% endif %}
