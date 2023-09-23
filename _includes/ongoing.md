@@ -56,6 +56,20 @@
 </ol>
 </div>
 
+
+<script>
+  function toggleAbstract(button) {
+    var parentDiv = button.closest('.col-sm-12');
+    if (parentDiv) {
+        var abstractContent = parentDiv.querySelector('.abstract-content');
+        if (abstractContent) {
+            abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+        }
+    }
+  }
+</script>
+
+<!--- 
 <script>
   function toggleAbstract(button) {
       console.log('toggleAbstract function triggered!');
@@ -79,3 +93,4 @@
       }
   }
 </script>
+--->
