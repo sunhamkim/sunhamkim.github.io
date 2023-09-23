@@ -10,7 +10,7 @@
 .blank-div {
   /* Your default styles for the div, if any */
   /* For example: */
-  height: 100px; /* or any height you prefer */
+  height: 60px; /* or any height you prefer */
   background-color: transparent; /* or any color for visibility */
 }
 
@@ -126,9 +126,9 @@
     .topnav #myLinks {
         display: none;
       }
-    .blank-div {
-      display: none;
-    }
+      .blank-div {
+        display: none;
+      }
     /* .topnav #logo {
       display: none;
     } */
