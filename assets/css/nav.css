@@ -7,9 +7,14 @@
     width:100%;
   }
 
-  .topnav #logo {
+  .topnav #logo,
+  .topnav #logo a {
+    float: left;
     display: inline;
     color: #f2f2f2;
+    padding: 10px 9px;
+    text-decoration: none;
+    font-size: 17px;
   }
 
   .topnav #myLinks {
@@ -134,7 +139,7 @@
       .topnav #myLinks {
         display: none;
       }
-      
+
       .topnav #logo {
         display: none;
       }
