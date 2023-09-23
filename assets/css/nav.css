@@ -7,6 +7,10 @@
     width:100%;
   }
 
+  .topnav #logo {
+    display: inline;
+    color: #f2f2f2;
+  }
 
   .topnav #myLinks {
     display: inline;
