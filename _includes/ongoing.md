@@ -60,8 +60,13 @@
   function toggleAbstract(button) {
     console.log('toggleAbstract function triggered!');
     console.log('Clicked button:', button);
+
+    // Go up to the parent div (class: col-sm-12)
+    var parentDiv = button.closest('.col-sm-12');
+
+    // Now, find the next sibling from the parentDiv
+    var abstractContent = parentDiv ? parentDiv.nextElementSibling : null;
     
-    var abstractContent = button.nextElementSibling;
     // Log the siblings being traversed
     var i = 1;
     while (abstractContent) {
