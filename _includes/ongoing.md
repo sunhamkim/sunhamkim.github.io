@@ -58,30 +58,24 @@
 
 <script>
   function toggleAbstract(button) {
-    console.log('toggleAbstract function triggered!');
-    console.log('Clicked button:', button);
+      console.log('toggleAbstract function triggered!');
+      console.log('Clicked button:', button);
 
-    // Go up to the parent div (class: col-sm-12)
-    var parentDiv = button.closest('.col-sm-12');
+      // Go up to the parent div (class: col-sm-12)
+      var parentDiv = button.closest('.col-sm-12');
 
-    // Now, find the next sibling from the parentDiv
-    var abstractContent = parentDiv ? parentDiv.nextElementSibling : null;
-    
-    // Log the siblings being traversed
-    var i = 1;
-    while (abstractContent) {
-        console.log('Sibling ' + i + ':', abstractContent);
-        if (abstractContent.classList.contains('abstract-content')) {
-            break;
-        }
-        abstractContent = abstractContent.nextElementSibling;
-        i++;
-    }
-    
-    if (abstractContent) {
-        abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
-    } else {
-        console.error('abstractContent is null. Check the HTML structure.');
-    }
-}
+      if (parentDiv) {
+          // Find the child element with class abstract-content
+          var abstractContent = parentDiv.querySelector('.abstract-content');
+          
+          if (abstractContent) {
+              console.log('Found abstractContent:', abstractContent);
+              abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
+          } else {
+              console.error('abstractContent is null. Check the HTML structure.');
+          }
+      } else {
+          console.error('Parent div (col-sm-12) not found. Check the HTML structure.');
+      }
+  }
 </script>
