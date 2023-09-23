@@ -5,8 +5,8 @@
 <ul>
     <li>Mantra</li>
     <ul class="no-bullets">
-        <li>"All that is gold does not glitter, not all those who wander are lost." (_The Lord of the Rings_)</li>
-        <li>"Dying is easy, young man. Living is harder." (_Hamilton: An American Musical_)</li>
+        <li>"All that is gold does not glitter, not all those who wander are lost." (<em>The Lord of the Rings</em>)</li>
+        <li>"Dying is easy, young man. Living is harder." (<em>Hamilton: An American Musical</em>)</li>
     </ul>
     <li>[Useful Links](./useful-links.html)</li>
 </ul>
