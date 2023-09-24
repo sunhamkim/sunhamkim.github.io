@@ -12,11 +12,11 @@
       <div class="title">{{ link.title }}</div>
       <div class="author" style="display: inline;">{{ link.authors }}</div>
     <div class="links">
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
       {% if link.notes %} 
         {{ link.notes }}
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.others %} 
         {{ link.others }}
