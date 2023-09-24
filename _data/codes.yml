@@ -3,4 +3,4 @@ main:
   - title: Shape-preserving rational spline Hermite interpolation
     authors: Cai and Judd, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176512002558">Economic Letters 2012</a>
     code: https://github.com/sunhamkim/rationalspline
-    note: A quick MATLAB snippet to implement shape-preserving rational spline Hermite interpolation.
+    notes: A quick MATLAB snippet to implement shape-preserving rational spline Hermite interpolation.
