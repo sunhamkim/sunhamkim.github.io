@@ -5,7 +5,6 @@ main:
     status: (Draft Available Soon)
 #    conference_short: MICCAI
 #    conference: presented at here, there and <strong>(THERE)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -14,7 +13,8 @@ main:
   - title: "Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare"
     authors: with <a href="https://sites.google.com/view/chongxiang/home" target="_blank">Chong Xiang</a> and  <a href="https://sites.google.com/site/soojinkim06" target="_blank">Soojin Kim</a>
 #    conference_short: MICCAI
-    status: (Draft Available Soon)
+    pdf: https://sunhamkim.github.io/files/pdf/KKX_October2023.pdf
+    abstract: Abstract We investigate how the China shock affects workers' health through optimal health investment decisions. We empirically estimate the elasticity of import penetration per worker on future good health probability. In our quantitative model, workers make decisions on their health investments based on sickness shocks, income, and insurance status. They have the option to either partially treat sickness or invest in their health beyond just treating the sickness. In our quantitative evaluation of the China shock, we find that there is little (substantial) change in the probability of future good health of employed workers whose health is initially bad (good), in line with our empirical estimates. In addition, uninsured workers who encounter a severe sickness shock experience a significant decline in their health. Overall, the health investment mechanism accounts for over two-fifths of the estimated empirical elasticity, implying that the China shock pushes nearly half a million individuals in U.S. manufacturing into bad health through this mechanism. In our counterfactuals, we find that universal health insurance would have remedied over 80% of the adverse health effects from the China shock, with large heterogeneity across sickness shocks and across commuting zones with varying degrees of exposure to import penetration.
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
