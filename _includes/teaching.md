@@ -18,7 +18,7 @@
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Purdue University</h4>
 <ul style="margin:0 0 5px;">
-  <li>Undergraduate:  Principle of Economics (Fall 2017), Macroeconomics (Spring 2018), International Trade (Spring 2021, 2023), Labor Economics (Summer 2022, Spring 2023) </li>
+  <li>Undergraduate:  Principles of Economics (Fall 2017), Macroeconomics (Spring 2018), International Trade (Spring 2021, 2023), Labor Economics (Summer 2022, Spring 2023) </li>
   <li>PhD: Microeconomics II (Fall 2018)</li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Yonsei University</h4>
