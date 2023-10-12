@@ -2,14 +2,20 @@
 layout: homepage
 ---
 <div class="blank-div"></div>
-## Trade Data
+
+## Data Sources
+
 * [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
-* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
+* [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
 * [Forum for Research in Empirical International Trade (FREIT)](https://www.freit.org/Resources.php){:target="_blank" rel="noopener"}
+* [County Business Patterns Database](http://fpeckert.me/cbp/){:target="_blank" rel="noopener"}
+* [Early County Business Patterns Database](http://fpeckert.me/elmmss/){:target="_blank" rel="noopener"}
+* [Markus Eberhardt's Macro Data List](https://sites.google.com/site/medevecon/devecondata/macro){:target="_blank" rel="noopener"}
 * [Peter Schott's Data page](https://sompks4.github.io/sub_data.html){:target="_blank" rel="noopener"}
 * [David Dorn's Data page](http://ddorn.net/data.htm){:target="_blank" rel="noopener"}
+* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
 
-## International Trade and Spatial Economics Material
+## International Trade and Spatial Economics Materials
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
 * Slides [(Costas Arkolakis)](https://arkolakis.com/teaching){:target="_blank" rel="noopener"}
@@ -21,6 +27,8 @@ layout: homepage
 * Makoto Nakajima's [lecture notes](https://makotonakajima.github.io/comp/){:target="_blank" rel="noopener"} 
 * Karen Kopecky's [lecture notes](http://www.karenkopecky.net/Teaching/eco613614){:target="_blank" rel="noopener"}
 * Fedor Iskhakov's [website](https://fedor.iskh.me/teaching) and [Youtube lectures](https://www.youtube.com/channel/UCHdkeCMms2wYqwDKHgHIsIA){:target="_blank" rel="noopener"}
+* Ivan Rudik's [course website](https://github.com/AEM7130/class-repo){:target="_blank" rel="noopener"} for Dynamic Optimization
+* MATLABMetal: Apple Metal GPU processing toolbox for MATLAB on macOS [(Tony Davis)](https://github.com/tessive/MatlabMetal){:target="_blank" rel="noopener"}
 
 ## General Tips for PhD Students
 * Finding Topics [(Lutz Hendricks)](https://lhendricks.org/graduate/dissertation_tips.html){:target="_blank" rel="noopener"}
