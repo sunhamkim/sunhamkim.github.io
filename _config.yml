@@ -1,10 +1,10 @@
-# Basic Information 
+# Basic Information
 title: Sunham Kim
 position: Ph.D. Candidate
 affiliation: Purdue University
 affiliation_link: https://business.purdue.edu/
 affiliation_logo: ./assets/img/logo.svg
-email: sh-kim (at) purdue.edu
+email: sunham-kim (at) purdue.edu
 
 # Search Engine Optimization (SEO)
 keywords: sunham kim, kim sunham, sunhamkim, kimsunham, sunham, purdue, economics, econ
@@ -21,18 +21,18 @@ github_link: https://github.com/sunhamkim/
 linkedin: https://www.linkedin.com/in/sunhamkim/
 twitter: https://twitter.com/sunham_kim/
 
-# Images 
+# Images
 avatar: ./files/img/profile_1.jpg
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Analytics
-# Please remove the following lines about analytics services if you fork my project. 
+# Please remove the following lines about analytics services if you fork my project.
 # Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
 google_analytics: G-3B09YM4Y7W
 google_tag: G-3B09YM4Y7W
 clustrmaps_link: //clustrmaps.com/globe.js?d=QsP-3Qm0fSNU94UxmGJF47QKd4gsH-E2IA0XQyxXREM
-                   
+
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
 # imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
