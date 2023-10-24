@@ -13,7 +13,7 @@
 
 <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
 <ul style="margin:0 0 5px;">
-  <li> Microeconomics (Summer 2019), [Instructor Eval 4.7/5.0](./files/pdf/TeachingEvalSU19.pdf)</li>
+  <li> Microeconomics (Summer 2019), <a href="./files/pdf/TeachingEvalSU19.pdf" target="_blank">Instructor Eval 4.7/5.0</a></li>
   <li> Intro to Casual Inference (Fall 2022), Volunteer for Purdue Econ Assoc. (Undergrad Club)</li>
 </ul>
 <h4 style="margin:0 10px 0;">Teaching Assistant, Purdue University</h4>
