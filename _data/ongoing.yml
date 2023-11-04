@@ -1,7 +1,7 @@
 main:
 
   - title: A Dynamic Model of Skill Formation and Worker Migration
-    authors: <strong>Job Market Paper</strong>
+    authors: <strong style="color:#e74d3c; font-weight:600">Job Market Paper</strong>
     pdf: https://sunhamkim.github.io/files/pdf/JMP_SKim.pdf
     abstract: Human capital is a key determinant of regional economic development. In the U.S., the varying skill production efficiencies of state-specific education systems and the dynamics of worker migration shape regional human capital, influencing economic outcomes at both the state and national levels. This paper develops a novel dynamic spatial general equilibrium model with overlapping generation framework in which heterogeneous individuals accumulate human capital and move across regions. Calibrated to U.S., the model illustrates how variations in education efficiency lead to substantial cross-state income disparities and shows that internal migration can notably boost output in states with lower education efficiencies such as North Dakota and Oklahoma. At the national level, free mobility of workers yields a 6.9% output gain. Moreover, the model suggests that variations in human capital account for 46.6% of the state variation per capita output. Applying the calibrated model to analyze the Obama Administration's Race to the Top initiative finds that the $4.1 billion grant spurred a 0.2% increase in U.S. GDP, mostly benefiting the grant-winning states and their neighbors. Additionally, alternative grant allocation experiments show that strategic reallocation of education grants, considering regional skill production efficiencies, could further enhance national GDP gains without necessarily worsening regional income disparities.
 #    conference_short: MICCAI
