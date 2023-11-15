@@ -14,7 +14,7 @@
       <div class="title">{{ link.title }}</div>
       <div class="author" style="display: inline;">{{ link.authors }}</div>
       {% if link.status %}
-      <span class="periodical"><em>{{ link.status }}</em></span>
+      <span class="periodical"><br><em>{{ link.status }}</em></span>
       {% endif %}
       {% if link.media %} 
       <div class="media">{{ link.media }}</div>
