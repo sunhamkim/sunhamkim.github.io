@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    
-  <!-- Google tag (gtag.js) 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3B09YM4Y7W"></script>
-  <script>
+
+      <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3B09YM4Y7W"></script>
+    <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-3B09YM4Y7W');
-  </script>
-    -->
-    
+    </script>
+
     <title>{{ site.title }}'s Homepage</title>
-    
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="{{ site.title }}">
@@ -65,7 +64,7 @@
       }
       }
    </script>
-   
+
 
   </head>
   <body>
@@ -75,7 +74,7 @@
         <a href="{{ site.canonical }}">{{ site.title }}</a>
       </div> --->
 
-      <a href="{{ site.canonical }}"><img width="190" src="{{ site.affiliation_logo }}"></a> 
+      <a href="{{ site.canonical }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
       {% include navigation.md %}
@@ -84,7 +83,7 @@
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
-      
+
     </div>
 
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
@@ -105,10 +104,10 @@
           height: 30px;
         }
     </style>
-    
+
     <div class="wrapper">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -133,7 +132,7 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
+        </a>
         {% endif %}
 
         {% if site.cv_link %}
@@ -178,7 +177,7 @@
               var showAs = modiDate.getDate() + ". " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
               document.write(showAs);
             </script>.
-      </small> 
+      </small>
       -->
 
       <div style="font: 12px/1.2 Crimson Pro, serif">
@@ -190,7 +189,7 @@
       {% if site.clustrmaps_link %}
       <p hidden><script type="text/javascript" id="clstr_globe" src="{{ site.clustrmaps_link }}"></script></p>
       {% endif %}
-      
+
       </section>
       <footer>
         <div style="font: 12px/1.2 Crimson Pro, serif">
