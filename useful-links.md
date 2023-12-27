@@ -3,7 +3,10 @@ layout: homepage
 ---
 <div class="blank-div"></div>
 
-## Data Sources
+## Data Sources <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-database fa-stack-1x fa-inverse"></i>
+    </span>
 
 * [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
 * [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
