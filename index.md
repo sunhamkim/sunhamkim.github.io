@@ -10,7 +10,7 @@ Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University
 
 I will be on the 2023-2024 job market and will be available for interviews. 
 
-<h4 style="margin:0 10px 0;">Upcoming Talks:</h4>
+<h4 style="margin:0 0 0;">Upcoming Talks:</h4>
 <ul style="margin:0 0 5px;">
     <li><a href="https://www.sole-jole.org/upcoming-meeting">SOLE</a> in Portland</li>
     <li><a href="https://sites.google.com/site/riefnetwork">RIEF Network Doctoral Meeting</a> in Paris</li>
