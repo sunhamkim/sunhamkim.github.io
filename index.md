@@ -8,7 +8,11 @@ layout: homepage
 
 Welcome! I am a Ph.D. candidate in Department of Economics at [Purdue University](https://www.purdue.edu).  <a href="./cv.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px; color: #000000; border: 1px solid #000000; padding-left: 0.25rem; padding-right: 0.25rem;">Vitae</a>
 
-I will be on the 2023-2024 job market and will be available for interviews. I will be attending the [SOLE 2024](https://www.sole-jole.org/upcoming-meeting) conference.
+I will be on the 2023-2024 job market and will be available for interviews. 
+
+#### Upcoming Talks: 
+- [SOLE in Portland](https://www.sole-jole.org/upcoming-meeting)
+- [RIEF Network Doctoral Meeting in Paris](https://sites.google.com/site/riefnetwork)
 
 ---
 ## Research Interests
