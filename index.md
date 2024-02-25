@@ -19,7 +19,6 @@ I will be on the 2023-2024 job market and will be available for interviews.
 ---
 ## Research Interests
 - Spatial economics, International trade, Macroeconomics
-- Labor economics, Health economics
 
  ---
 {% include_relative _includes/ongoing.md %}
