@@ -15,6 +15,7 @@ I will join the Korea Development Institute as an Associate Fellow in the summer
 <ul style="margin:0 0 5px;">
     <li><a href="https://sites.google.com/site/riefnetwork">RIEF Network Doctoral Meeting</a> in Paris, 4/25-26</li>
     <li><a href="https://www.sole-jole.org/upcoming-meeting">SOLE</a> in Portland, 5/3-4</li>
+    <li>Korea Insurance Institute, 6/12</li>
 </ul>
 
 ---
