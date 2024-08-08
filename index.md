@@ -16,6 +16,7 @@ I will join the Korea Development Institute as an Associate Fellow in the summer
     <li><a href="https://sites.google.com/site/riefnetwork">RIEF Network Doctoral Meeting</a> in Paris, 4/25-26</li>
     <li><a href="https://www.sole-jole.org/upcoming-meeting">SOLE</a> in Portland, 5/3-4</li>
     <li>Korea Insurance Research Institute, 6/10</li>
+    <li><a href="https://www.sole-jole.org/upcoming-meeting">Midwest Macro Fall 2024</a> at Purdue, 9/6-8</li>
     <li><a href="https://urbaneconomics.org/meetings/uea2024/">UEA 2024</a> in Washington D.C., 9/20-21</li>
 </ul>
 
