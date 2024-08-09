@@ -26,14 +26,15 @@ layout: homepage
 * Benjamin Moll's [teaching page](https://benjaminmoll.com/lectures/){:target="_blank" rel="noopener"} 
 * Makoto Nakajima's [lecture notes](https://makotonakajima.github.io/comp/){:target="_blank" rel="noopener"} 
 * Karen Kopecky's [lecture notes](http://www.karenkopecky.net/Teaching/eco613614){:target="_blank" rel="noopener"}
+* Ricardo Marto's [book and lecture notes](https://www.ricardomarto.com/teaching/){:target="_blank" rel="noopener"}
 * Fedor Iskhakov's [website](https://fedor.iskh.me/teaching) and [Youtube lectures](https://www.youtube.com/channel/UCHdkeCMms2wYqwDKHgHIsIA){:target="_blank" rel="noopener"}
 * Ivan Rudik's [course website](https://github.com/AEM7130/class-repo){:target="_blank" rel="noopener"} for Dynamic Optimization
 * MATLABMetal: Apple Metal GPU processing toolbox for MATLAB on macOS [(Tony Davis)](https://github.com/tessive/MatlabMetal){:target="_blank" rel="noopener"}
 
 ## General Tips for PhD Students
-* Finding Topics [(Lutz Hendricks)](https://lhendricks.org/graduate/dissertation_tips.html){:target="_blank" rel="noopener"}
-* Trade JMP [(Jonathan Dingel)](https://tradediversion.net/tag/jmp/){:target="_blank" rel="noopener"}
+* A list of Trade JMPs [(Jonathan Dingel)](https://tradediversion.net/tag/jmp/){:target="_blank" rel="noopener"}
 * Trade PhD Package [(Stephen Redding)](http://www.princeton.edu/~reddings/TradePhd.htm){:target="_blank" rel="noopener"}
+* Finding Topics [(Lutz Hendricks)](https://lhendricks.org/graduate/dissertation_tips.html){:target="_blank" rel="noopener"}
 
 ## Miscs
 * Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
