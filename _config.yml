@@ -1,16 +1,16 @@
 # Basic Information
 title: Sunham Kim
-position: Ph.D. Candidate
-affiliation: Purdue University
-affiliation_link: https://business.purdue.edu/
+position: Associate Fellow
+affiliation: Korea Development Institute
+affiliation_link: https://kdi.re.kr/eng/
 affiliation_logo: ./assets/img/logo.svg
-email: sunham-kim (at) purdue.edu
-emailalt: sunhamkim (at) gmail.com
+email: sunhamkim (at) gmail.com
+emailalt: sunham-kim (at) purdue.edu
 
 # Search Engine Optimization (SEO)
-keywords: sunham kim, kim sunham, sunhamkim, kimsunham, sunham, purdue, economics, econ
+keywords: sunham kim, kim sunham, sunhamkim, kimsunham, sunham, economics, econ, korea development institute, kdi
 canonical: https://sunhamkim.github.io
-description: Sunham Kim is a Ph.D. candidate at Purdue University. His research insterest includes spatial economics, international trade, macroeconomics, and human capital.
+description: Sunham Kim is an Associate Fellow at the Korea Development Institute. His research insterest includes spatial economics, international trade, and macroeconomics.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: false
