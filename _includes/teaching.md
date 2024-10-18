@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px; cursor: pointer;" onclick="toggleSection(this, 'teaching-content')">
     Teaching
-    <a href="#" class="btn btn-sm z-depth-0 toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
+    <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
         Expand
     </a>
 </h2>
@@ -33,22 +33,22 @@
 
 <!-- JavaScript to toggle the section -->
 <script>
-  function toggleSection(button, contentId) {
+  function toggleSection(element, contentId) {
     var content = document.getElementById(contentId);
-    var btnText = button.querySelector('.toggle-button');
+    var btnText = element.querySelector('.abstract-toggle-button');
     
     if (content.style.display === "none" || content.style.display === "") {
       content.style.display = "block";
-      btnText.innerHTML = "Collapse";
+      if (btnText) btnText.innerHTML = "Collapse";
     } else {
       content.style.display = "none";
-      btnText.innerHTML = "Expand";
+      if (btnText) btnText.innerHTML = "Expand";
     }
   }
 </script>
 
 <!-- Optional CSS for button styling -->
-<style>
+<!-- <style>
   .toggle-button {
     background: none;
     border: none;
@@ -65,4 +65,4 @@
   h2 {
     display: inline;
   }
-</style>
+</style> -->
