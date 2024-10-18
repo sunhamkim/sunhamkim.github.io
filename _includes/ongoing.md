@@ -12,9 +12,7 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
-      {% if link.author %}
       <div class="author" style="display: inline;">{{ link.authors }}</div>
-      {% endif %}
       {% if link.status %}
       <span class="periodical"><br><em>{{ link.status }}</em></span>
       {% endif %}
