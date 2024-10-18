@@ -3,23 +3,13 @@ layout: homepage
 ---
 <div class="blank-div"></div>
 
-## Data Sources
-
-* [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
-* [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
-* [Forum for Research in Empirical International Trade (FREIT)](https://www.freit.org/Resources.php){:target="_blank" rel="noopener"}
-* [County Business Patterns Database](http://fpeckert.me/cbp/){:target="_blank" rel="noopener"}
-* [Early County Business Patterns Database](http://fpeckert.me/elmmss/){:target="_blank" rel="noopener"}
-* [Markus Eberhardt's Macro Data List](https://sites.google.com/site/medevecon/devecondata/macro){:target="_blank" rel="noopener"}
-* [Peter Schott's Data page](https://sompks4.github.io/sub_data.html){:target="_blank" rel="noopener"}
-* [David Dorn's Data page](http://ddorn.net/data.htm){:target="_blank" rel="noopener"}
-* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
 
 ## International Trade and Spatial Economics Materials
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
 * Slides [(Costas Arkolakis)](https://arkolakis.com/teaching){:target="_blank" rel="noopener"}
 * Slides [(Stephen Redding)](http://www.princeton.edu/~reddings/spatialeconomics.htm){:target="_blank" rel="noopener"}
+* 2020 Lectures on Urban Economics [UEA](https://urbaneconomics.org/workshops/lectures2020/){:target="_blank" rel="noopener"}
 
 ## Computational (Macro) Economics
 * Jesús Fernández-Villaverde's [teaching page](https://www.sas.upenn.edu/~jesusfv/teaching.html){:target="_blank" rel="noopener"} 
@@ -36,8 +26,21 @@ layout: homepage
 * Trade PhD Package [(Stephen Redding)](http://www.princeton.edu/~reddings/TradePhd.htm){:target="_blank" rel="noopener"}
 * Finding Topics [(Lutz Hendricks)](https://lhendricks.org/graduate/dissertation_tips.html){:target="_blank" rel="noopener"}
 
-## Miscs
+## Research Logistics
 * Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
+* Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/workflow/){:target="_blank" rel="noopener"}
+
+## Data Sources
+
+* [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
+* [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
+* [Forum for Research in Empirical International Trade (FREIT)](https://www.freit.org/Resources.php){:target="_blank" rel="noopener"}
+* [County Business Patterns Database](http://fpeckert.me/cbp/){:target="_blank" rel="noopener"}
+* [Early County Business Patterns Database](http://fpeckert.me/elmmss/){:target="_blank" rel="noopener"}
+* [Markus Eberhardt's Macro Data List](https://sites.google.com/site/medevecon/devecondata/macro){:target="_blank" rel="noopener"}
+* [Peter Schott's Data page](https://sompks4.github.io/sub_data.html){:target="_blank" rel="noopener"}
+* [David Dorn's Data page](http://ddorn.net/data.htm){:target="_blank" rel="noopener"}
+* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
 
 
 <!--- [[back](./)] --->
