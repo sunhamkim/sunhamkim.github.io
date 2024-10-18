@@ -50,7 +50,7 @@
   .custom-toggle-button {
     font-size: 12px;
     color: #000000;
-    border: 1px solid #000000;
+    border: 0.5px solid #000000;
     padding-left: 0.25rem;
     padding-right: 0.25rem;
   }
