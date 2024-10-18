@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px;">
     Teaching
-    <a href="#" class="btn btn-sm z-depth-0" role="button" style="font-size:12px; color: #000000; border: 1px solid #000000; padding-left: 0.25rem; padding-right: 0.25rem;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
+    <a href="#" class="btn btn-sm z-depth-0 custom-toggle-button" role="button" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
         Expand
     </a>
 </h2>
@@ -46,21 +46,12 @@
 </script>
 
 <!-- Optional CSS for button styling -->
-<!-- <style>
-  .toggle-button {
-    background: none;
-    border: none;
-    cursor: pointer;
+<style>
+  .custom-toggle-button {
     font-size: 12px;
-    text-decoration: underline;
-    color: #007bff;
+    color: #000000;
+    border: 1px solid #000000;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
   }
-
-  .toggle-button:hover {
-    text-decoration: none;
-  }
-
-  h2 {
-    display: inline;
-  }
-</style> -->
+</style>
