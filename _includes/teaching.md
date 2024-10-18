@@ -1,8 +1,10 @@
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 0px 0px 10px;">
+<h2 style="margin: 0px 0px 10px; cursor: pointer;" onclick="toggleSection(this, 'teaching-content')">
     Teaching
-    <button class="toggle-btn" id="toggle-icon" onclick="toggleSection('teaching-content')">▶</button>
+    <a href="#" class="btn btn-sm z-depth-0 toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
+        Expand
+    </a>
 </h2>
 
 <div id="teaching-content" style="display:none;">
@@ -31,25 +33,36 @@
 
 <!-- JavaScript to toggle the section -->
 <script>
-  function toggleSection(id) {
-    var section = document.getElementById(id);
-    var button = document.getElementById('toggle-icon');
-    if (section.style.display === "none") {
-      section.style.display = "block";
-      button.innerHTML = "▼";  // Change to down arrow
+  function toggleSection(button, contentId) {
+    var content = document.getElementById(contentId);
+    var btnText = button.querySelector('.toggle-button');
+    
+    if (content.style.display === "none" || content.style.display === "") {
+      content.style.display = "block";
+      btnText.innerHTML = "Collapse";
     } else {
-      section.style.display = "none";
-      button.innerHTML = "▶";  // Change to right arrow
+      content.style.display = "none";
+      btnText.innerHTML = "Expand";
     }
   }
 </script>
 
 <!-- Optional CSS for button styling -->
 <style>
-  .toggle-btn {
+  .toggle-button {
     background: none;
     border: none;
     cursor: pointer;
     font-size: 12px;
+    text-decoration: underline;
+    color: #007bff;
+  }
+
+  .toggle-button:hover {
+    text-decoration: none;
+  }
+
+  h2 {
+    display: inline;
   }
 </style>
