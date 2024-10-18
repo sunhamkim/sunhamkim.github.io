@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px;">
     Teaching
-    <button class="toggle-btn" onclick="toggleSection('teaching-content')">▼</button>
+    <button class="toggle-btn" id="toggle-icon" onclick="toggleSection('teaching-content')">Show</button>
 </h2>
 
 <div id="teaching-content" style="display:none;">
@@ -33,10 +33,13 @@
 <script>
   function toggleSection(id) {
     var section = document.getElementById(id);
+    var button = document.getElementById('toggle-icon');
     if (section.style.display === "none") {
       section.style.display = "block";
+      button.innerHTML = "Hide";
     } else {
       section.style.display = "none";
+      button.innerHTML = "Show";
     }
   }
 </script>
