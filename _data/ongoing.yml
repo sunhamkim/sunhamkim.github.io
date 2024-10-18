@@ -1,6 +1,6 @@
 main:
   - title: "Human Capital Production in a Spatial Economy: A Quantitative Assessment of the Decentralized U.S. Education System"
-    authors: <em>"previously titled: A Dynamic Model of Skill Formation and Worker Migration"</em>
+    authors: previously titled <em>"A Dynamic Model of Skill Formation and Worker Migration"</em>
     # authors: <strong style="color:#e74d3c; font-weight:600">Job Market Paper</strong>
     pdf: https://sunhamkim.github.io/files/pdf/JMP_SKim.pdf
     # status: 
