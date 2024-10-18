@@ -3,7 +3,6 @@ layout: homepage
 ---
 <div class="blank-div"></div>
 
-
 ## International Trade and Spatial Economics Materials
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
@@ -31,7 +30,6 @@ layout: homepage
 * Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/workflow/){:target="_blank" rel="noopener"}
 
 ## Data Sources
-
 * [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
 * [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
 * [Forum for Research in Empirical International Trade (FREIT)](https://www.freit.org/Resources.php){:target="_blank" rel="noopener"}
