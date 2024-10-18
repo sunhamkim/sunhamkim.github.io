@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px;">
     Teaching
-    <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
+    <a href="#" class="btn btn-sm z-depth-0" role="button" style="font-size:12px; color: #000000; border: 1px solid #000000; padding-left: 0.25rem; padding-right: 0.25rem;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
         Expand
     </a>
 </h2>
