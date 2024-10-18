@@ -1,6 +1,6 @@
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 0px 0px 10px; cursor: pointer;" onclick="toggleSection(this, 'teaching-content')">
+<h2 style="margin: 0px 0px 10px;">
     Teaching
     <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
         Expand
@@ -33,16 +33,14 @@
 
 <!-- JavaScript to toggle the section -->
 <script>
-  function toggleSection(element, contentId) {
+  function toggleSection(button, contentId) {
     var content = document.getElementById(contentId);
-    var btnText = element.querySelector('.abstract-toggle-button');
-    
     if (content.style.display === "none" || content.style.display === "") {
       content.style.display = "block";
-      if (btnText) btnText.innerHTML = "Collapse";
+      button.innerHTML = "Collapse";
     } else {
       content.style.display = "none";
-      if (btnText) btnText.innerHTML = "Expand";
+      button.innerHTML = "Expand";
     }
   }
 </script>
