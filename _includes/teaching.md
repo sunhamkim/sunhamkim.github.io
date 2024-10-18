@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px;">
     Teaching
-    <button class="toggle-btn" id="toggle-icon" onclick="toggleSection('teaching-content')">Show</button>
+  <button class="toggle-btn" id="toggle-icon" onclick="toggleSection('teaching-content')">▲</button>
 </h2>
 
 <div id="teaching-content" style="display:none;">
@@ -36,10 +36,10 @@
     var button = document.getElementById('toggle-icon');
     if (section.style.display === "none") {
       section.style.display = "block";
-      button.innerHTML = "Hide";
+      button.style.transform = "rotate(180deg)";  // Rotate down
     } else {
       section.style.display = "none";
-      button.innerHTML = "Show";
+      button.style.transform = "rotate(0deg)";  // Rotate back up
     }
   }
 </script>
@@ -50,6 +50,6 @@
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 12px;
   }
 </style>
