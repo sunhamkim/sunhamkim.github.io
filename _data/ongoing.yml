@@ -13,7 +13,7 @@ main:
   #    image: https://img.yliu.me/teaser/miccai2023.png
     
   - title: "Investing in Health during Good and Bad Times: An Application to the China Shock"
-    authors: with <a href="https://sites.google.com/view/chongxiang/home" target="_blank">Chong Xiang</a> and  <a href="https://sites.google.com/site/soojinkim06" target="_blank">Soojin Kim</a>
+    authors: with <a href="https://sites.google.com/view/chongxiang/home" target="_blank">Chong Xiang</a> and  <a href="https://sites.google.com/site/soojinkim06" target="_blank">Soojin Kim</a> <i>(submitted)</i>
     #    conference_short: MICCAI
     oldtitle: "Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare"
     # status: "previously titled: Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare"
