@@ -20,7 +20,7 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 
 ## Research Interests
 
-- Spatial economics, International trade, Macroeconomics
+- Spatial economics, International trade, Macroeconomics, Labor Economics
 
   ***
 
