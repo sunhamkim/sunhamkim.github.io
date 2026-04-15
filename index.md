@@ -14,6 +14,8 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 <ul style="margin:0 0 5px;">
     <!-- <li><a href="https://business.purdue.edu/events/midwest-macroeconomics-meetings/">Midwest Macro Fall 2024</a> at Purdue, 9/6-8</li> -->
     <!-- <li><a href="https://urbaneconomics.org/meetings/uea2024/">UEA 2024</a> in Washington D.C., 9/20-21</li> -->
+    <li>Chung-Ang University, May 7</li>
+    <li>Conference on Urban and Real Estate Research in Korea, May 8</li>
     <li>Kyoto University, May 21-22</li>
     <li>Sogang University, June 12</li>
 </ul> 
