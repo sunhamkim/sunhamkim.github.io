@@ -28,6 +28,7 @@ layout: homepage
 ## Research Logistics
 * Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
 * Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/workflow/){:target="_blank" rel="noopener"}
+* Claude Code Guide [(Pedro Sant'Anna)](https://psantanna.com/claude-code-my-workflow/){:target="_blank" rel="noopener"}
 
 ## Data Sources
 * [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
