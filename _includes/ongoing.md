@@ -12,12 +12,14 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
+      {% if link.authors %}
       <div class="author" style="display: inline;">{{ link.authors }}</div>
+      {% endif %}
       {% if link.oldtitle %}
-      <span class="oldtitle"><br>previously, <i>{{ link.oldtitle }}</i></span>
+      <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
       {% endif %}
       {% if link.status %}
-      <span class="periodical"><br><em>{{ link.status }}</em></span>
+      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}</em></span>
       {% endif %}
       {% if link.media %} 
       <div class="media">{{ link.media }}</div>

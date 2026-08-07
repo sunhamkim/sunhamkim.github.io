@@ -1,7 +1,13 @@
 <h1 id="policy"></h1>
 
-<h2 style="margin: 0px 0px -15px;">Policy Work</h2>
+<h2 style="margin: 0px 0px 10px;">
+  Policy Work
+  <a href="#" class="btn btn-sm z-depth-0 custom-toggle-button" role="button" onclick="event.preventDefault(); toggleSection(this, 'policy-content');">
+    Expand
+  </a>
+</h2>
 
+<div id="policy-content" style="display:none;">
 <div class="publications">
 <ol class="bibliography">
 
@@ -14,7 +20,7 @@
     <div class="author" style="display: inline;">{{ item.authors }}</div>
     {% endif %}
     {% if item.series or item.date %}
-    <span class="periodical"><br>{% if item.series %}<em>{{ item.series }}</em>{% endif %}{% if item.series and item.date %}, {% endif %}{% if item.date %}{{ item.date }}{% endif %}</span>
+    <span class="periodical">{% if item.authors %}<br>{% endif %}{% if item.series %}<em>{{ item.series }}</em>{% endif %}{% if item.series and item.date %}, {% endif %}{% if item.date %}{{ item.date }}{% endif %}</span>
     {% endif %}
     <div class="links">
       {% if item.abstract %}
@@ -38,4 +44,5 @@
 {% endfor %}
 
 </ol>
+</div>
 </div>
