@@ -32,6 +32,12 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 
   {% include_relative _includes/teaching.md %}
 
+  {% if site.data.policy.main %}
+    ***
+
+    {% include_relative _includes/policy.md %}
+  {% endif %}
+
 <!--- {% include_relative _includes/services.md %} --->
 <!--- {% include_relative _includes/contact.md %}  --->
 
