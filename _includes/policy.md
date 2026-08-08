@@ -15,7 +15,12 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative; padding-right: 15px; padding-left: 20px;">
-    <div class="title"><span lang="ko">{{ item.title }}</span></div>
+    <div class="title">
+      <span lang="ko">{{ item.title }}</span>
+      {% if item.title_eng %}
+      <br><span>({{ item.title_eng }})</span>
+      {% endif %}
+    </div>
     {% if item.authors %}
     <div class="author" style="display: inline;">{{ item.authors }}</div>
     {% endif %}
@@ -28,6 +33,9 @@
       {% endif %}
       {% if item.pdf %}
       <a href="{{ item.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if item.pdf_eng %}
+      <a href="{{ item.pdf_eng }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF (Eng)</a>
       {% endif %}
       {% if item.youtube %}
       <a href="{{ item.youtube }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">YouTube</a>
