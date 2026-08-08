@@ -18,7 +18,7 @@
     <div class="title">
       <span lang="ko">{{ item.title }}</span>
       {% if item.title_eng %}
-      <br><span>({{ item.title_eng }})</span>
+      <br><span class="title-eng">({{ item.title_eng }})</span>
       {% endif %}
     </div>
     {% if item.authors %}

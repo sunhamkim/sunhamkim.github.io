@@ -11,7 +11,9 @@ body {
   margin:0
 }
 
-:lang(ko) { font-size: 13px; }
+:lang(ko) { font-size: 12px; }
+
+.title-eng { font-weight: 400; }
 
 .pub-row { display: flex; align-items: center; }
 
