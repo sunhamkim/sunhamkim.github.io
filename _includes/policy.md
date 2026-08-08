@@ -29,6 +29,9 @@
       {% if item.pdf %}
       <a href="{{ item.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF</a>
       {% endif %}
+      {% if item.youtube %}
+      <a href="{{ item.youtube }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">YouTube</a>
+      {% endif %}
       {% if item.notes %}
       <strong><i lang="ko" style="color:#e74d3c">{{ item.notes }}</i></strong>
       {% endif %}
