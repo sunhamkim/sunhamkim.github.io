@@ -28,6 +28,8 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 
   {% include_relative _includes/ongoing.md %}
 
+  {% include_relative _includes/publications.md %}
+
   ***
 
   {% include_relative _includes/teaching.md %}
