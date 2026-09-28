@@ -1,7 +1,7 @@
 main:
   - title: "Mitigating School Closures: Parental Responses and Tutoring Vouchers"
     authors: with <a href="https://www.hyunjaekang.com/" target="_blank">Hyunjae Kang</a> and <a href="https://scholar.google.com/citations?user=KbwSFo4AAAAJ&hl=ko" target="_blank">TaeYoung Kang</a>
-    pdf: https://jaykanglabor.github.io/jobmarket/KangKangKim_Voucher.pdf
+    pdf: https://sunhamkim.github.io/files/pdf/KangKangKim_June2026.pdf
     abstract: "We investigate how reduced in-person school days affect educational inequality through parental responses. Exploiting quasi-experimental variation in school-level in-person days and a linked administrative–survey panel, we find that each ten-day loss increases household tutoring expenditure by 4 percent and within-school test-score dispersion by 25 percent. We build and estimate a household choice model where formal schooling and tutoring jointly generate test scores. Estimates suggest tutoring substitutes for in-person days and that closures burden low-income households disproportionately. Counterfactual simulations show that a means-tested tutoring-voucher program matches the overall inequality reduction of a universal scheme while cutting costs by 20 percent."
     status: forthcoming
     journal: Journal of Applied Econometrics
