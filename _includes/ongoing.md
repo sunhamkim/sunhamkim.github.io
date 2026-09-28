@@ -1,12 +1,18 @@
 <h1 id="ongoing"></h1>
 
+{% assign research_sections = "ongoing,publications" | split: "," %}
+{% for section in research_sections %}
+{% if section == "ongoing" %}
 <h2 style="margin: 0px 0px -15px;">Working Papers</h2>
+{% else %}
+<h2 id="publications" style="margin: 0px 0px -15px;">Publications</h2>
+{% endif %}
 
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.ongoing.main %}
+{% for link in site.data[section].main %}
 
 <li>
 <div class="pub-row">
@@ -18,7 +24,9 @@
       {% if link.oldtitle %}
       <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
       {% endif %}
-      {% if link.status %}
+      {% if section == "publications" %}
+      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}, <strong style="color:#002D72; font-weight:600">{{ link.journal }}</strong>{% if link.date and link.date != empty %}, {{ link.date | append: "" | slice: 0, 4 }}{% endif %}</em></span>
+      {% elsif link.status %}
       <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}</em></span>
       {% endif %}
       {% if link.media %} 
@@ -29,7 +37,10 @@
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>
       {% endif %}
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Draft</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">{% if section == "publications" %}WP version{% else %}Draft{% endif %}</a>
+      {% endif %}
+      {% if section == "publications" and link.journal_url and link.journal_url != empty %}
+      <a href="{{ link.journal_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Published version</a>
       {% endif %}
       {% if link.youtube %}
       <a href="{{ link.youtube }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">YouTube</a>
@@ -63,6 +74,8 @@
 
 </ol>
 </div>
+
+{% endfor %}
 
 
 <script>
