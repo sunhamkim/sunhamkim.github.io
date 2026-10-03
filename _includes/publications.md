@@ -15,7 +15,7 @@
       {% if link.oldtitle %}
       <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
       {% endif %}
-      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}, <strong style="color:var(--global-theme-color); font-weight:600">{{ link.journal }}</strong>{% if link.date and link.date != empty %}, {{ link.date | append: "" | slice: 0, 4 }}{% endif %}</em></span>
+      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em><strong style="color:var(--global-theme-color); font-weight:600">{{ link.journal }}</strong>, {{ link.status }}{% if link.date and link.date != empty %}, {{ link.date | append: "" | slice: 0, 4 }}{% endif %}</em></span>
       {% if link.media %} 
       <div class="media">{{ link.media }}</div>
       {% endif %}
