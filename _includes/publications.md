@@ -23,11 +23,11 @@
       {% if link.abstract %} 
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>
       {% endif %}
+      {% if link.published_url and link.published_url != empty %}
+      <a href="{{ link.published_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Published Version</a>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">WP version</a>
-      {% endif %}
-      {% if link.journal_url and link.journal_url != empty %}
-      <a href="{{ link.journal_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Published version</a>
       {% endif %}
       {% if link.youtube %}
       <a href="{{ link.youtube }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">YouTube</a>

@@ -6,5 +6,5 @@ main:
     status: forthcoming
     journal: Journal of Applied Econometrics
     date: # Optional, yyyy or yyyy-mm (e.g. "2026" or "2026-09"); displays only the year
-    journal_url: # Optional URL for the published version
+    published_url: https://onlinelibrary.wiley.com/doi/10.1002/jae.70096 # Optional URL for the published version
     media: Media Coverage (Korean):<a href="https://www.khan.co.kr/national/national-general/article/202211301346001" target="_blank"> The Kyunghyang Shinmun</a>
