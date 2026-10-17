@@ -54,7 +54,7 @@ In `_data/publications.yml` or `_data/ongoing.yml`, add a `media` list to a pape
         url: https://example.com/article
 ```
 
-When the list is nonempty, `Media Coverage:` appears above comma-separated outlet links. Omit `media` or use `media: []` to hide it.
+When the list is nonempty, `Media Coverage:` is followed on the same line by comma-separated outlet links. Omit `media` or use `media: []` to hide it.
 
 
 ### Acknowledgements

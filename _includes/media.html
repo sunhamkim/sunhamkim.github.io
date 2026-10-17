@@ -1,6 +1,6 @@
 {% if include.media.size > 0 %}
 <div class="media">
-  Media Coverage:<br>
+  Media Coverage:
   {% for item in include.media %}<a href="{{ item.url | escape }}" target="_blank" rel="noopener">{{ item.name | escape }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
 </div>
 {% endif %}
