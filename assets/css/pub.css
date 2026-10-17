@@ -51,6 +51,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
+.publications ol.bibliography li .author,
+.publications ol.bibliography li .oldtitle,
+.publications ol.bibliography li .periodical,
+.publications ol.bibliography li .media,
+.publications ol.bibliography li .links { font-weight: 300; }
+
+.publications ol.bibliography li .links strong { font-weight: inherit; }
+
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
