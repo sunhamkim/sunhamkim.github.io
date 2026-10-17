@@ -2,7 +2,7 @@ main:
   - title: "Human Capital Production in a Spatial Economy: A Quantitative Assessment of the Decentralized U.S. Education System"
     authors: <i>On revision; Draft available upon request</i>
     # authors: <strong style="color:#e74d3c; font-weight:600">Job Market Paper</strong>
-    # status: 
+    # status:
     abstract: Education and labor mobility are key drivers in the production of human capital, fundamental to economic development. In the U.S., the varying skill production efficiencies of state-specific education systems and the dynamics of worker migration shape human capital of states, influencing economic outcomes at both the state and national levels. This paper develops a novel dynamic spatial general equilibrium model with overlapping generation framework in which heterogeneous individuals accumulate human capital and move across states. Calibrated to the U.S. economy, the model illustrates how variations in education efficiency lead to substantial cross-state income disparities and shows that internal migration can notably boost output in states with lower education efficiencies. At the national level, free mobility of workers yields a 6.9% output gain. Moreover, the model suggests that variations in human capital account for 46.6% of the state variation per capita output. Applying the calibrated model to analyze the Obama Administration's Race to the Top initiative finds that the $4.1 billion grant spurred a 0.2% increase in U.S. GDP, mostly benefiting the grant-winning states and their neighbors. Additionally, alternative grant allocation experiments show that strategic reallocation of education grants, considering state skill production efficiencies, could further increase national GDP gains without necessarily worsening state income disparities.
   #    conference_short: MICCAI
   #    conference: presented at here, there and <strong>(THERE)</strong>, 2023.
@@ -10,7 +10,7 @@ main:
   #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
   #    bibtex: https://bib.yliu.me/MICCAI23.txt
   #    image: https://img.yliu.me/teaser/miccai2023.png
-    
+
   - title: "Investing in Health during Good and Bad Times: An Application to the China Shock"
     authors: with <a href="https://sites.google.com/view/chongxiang/home" target="_blank">Chong Xiang</a> and  <a href="https://sites.google.com/site/soojinkim06" target="_blank">Soojin Kim</a> <i>(submitted)</i>
     #    conference_short: MICCAI
@@ -30,3 +30,9 @@ main:
     pdf: https://sunhamkim.github.io/files/pdf/HanKim_June2026.pdf
     status: <a href="https://www.anderson.ucla.edu/about/centers/ucla-ziman-center-for-real-estate/faculty-and-research/working-papers" target="_blank">UCLA Ziman Center Working Paper 2026-05</a>
     abstract: Where should governments supply new urban land? We study this question in a dynamic spatial growth model with a government that allocates land across regions under a budget constraint, where procurement cost scales with the local land price. In the short run, the welfare gain per dollar of procurement cost is equal across regions, and location is irrelevant at the margin. Permanently expanding the urban land stock moves the economy to a new steady state, as capital accumulates, workers migrate, and prices adjust over decades. This long-run gain per dollar no longer scales with the local land price. It varies across regions with the reallocation and accumulation of capital and labor that the new land induces, and the welfare return per dollar of procurement cost, not the local land price, ranks regions for new land. We take the model to South Korea's Second New Town Project, a large-scale urban land supply that converted roughly 5,000 hectares around Seoul into nine serviced cities and delivered around 610,000 housing units at a cost above 10% of 2004 GDP. The project raised long-run aggregate welfare by 0.28%. In our counterfactual, the same budget supplied to a lower-priced region outside the Seoul Metropolitan Area raises welfare by 0.35%. Our results suggest that when the instrument for correcting spatial misallocation is costly, where to deploy it depends on the long-run gains from adjustment relative to their cost, which may not necessarily be the most productive regions.
+
+  - title: "Raising the Bar: The Impact of Generative AI on Experience Requirements in Job Postings"
+    authors: with <a href="https://www.hyunjaekang.com/" target="_blank">Hyunjae Kang</a> and  <a href="https://scholar.google.com/citations?user=KbwSFo4AAAAJ" target="_blank">TaeYoung Kang</a>
+    pdf: https://sunhamkim.github.io/files/pdf/KangKangKim_AI_Nov2026.pdf
+#    status: <a href="https://www.anderson.ucla.edu/about/centers/ucla-ziman-center-for-real-estate/faculty-and-research/working-papers" target="_blank">UCLA Ziman Center Working Paper 2026-05</a>
+    abstract: How does generative AI affect the demand for experienced workers? Using 10.4 million Korean job postings from July 2019 to January 2025, we estimate that ChatGPT's release increased required experience by 0.07 years per standard deviation of job-level AI exposure, and reduced the share of postings open to entry-level applicants. The effect remains statistically significant when IT occupations and IT-industry firms are excluded. Comparing each occupation with blue-collar jobs, we find the clearest increase among software developers, whose required experience rose by 0.62 years, and larger increases in occupations with high AI exposure.
