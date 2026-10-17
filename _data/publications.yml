@@ -6,4 +6,6 @@ main:
     journal: Journal of Applied Econometrics
     year: 2026 # Optional: forthcoming, accepted, or a four-digit year
     published_url: https://onlinelibrary.wiley.com/doi/10.1002/jae.70096 # Optional URL for the published version
-    media: Media Coverage (Korean):<a href="https://www.khan.co.kr/national/national-general/article/202211301346001" target="_blank"> The Kyunghyang Shinmun</a>
+    media:
+      - name: The Kyunghyang Shinmun (Korean)
+        url: https://www.khan.co.kr/national/national-general/article/202211301346001

@@ -20,9 +20,7 @@
       {% if link.status %}
       <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}</em></span>
       {% endif %}
-      {% if link.media %} 
-      <div class="media">{{ link.media }}</div>
-      {% endif %}
+      {% include media.html media=link.media %}
     <div class="links">
       {% if link.abstract %} 
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>

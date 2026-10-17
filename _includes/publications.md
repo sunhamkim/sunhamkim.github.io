@@ -16,9 +16,7 @@
       <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
       {% endif %}
       <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em><strong style="color:var(--global-theme-color); font-weight:600">{{ link.journal }}</strong>{% if link.year and link.year != empty %}, {{ link.year }}{% endif %}</em></span>
-      {% if link.media %} 
-      <div class="media">{{ link.media }}</div>
-      {% endif %}
+      {% include media.html media=link.media %}
     <div class="links">
       {% if link.abstract %} 
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>

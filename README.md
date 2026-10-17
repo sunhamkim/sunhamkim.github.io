@@ -42,6 +42,20 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the html files in `_site` folder.
 
+### Media Coverage
+
+In `_data/publications.yml` or `_data/ongoing.yml`, add a `media` list to a paper:
+
+```yaml
+    media:
+      - name: The Kyunghyang Shinmun (Korean)
+        url: https://www.khan.co.kr/national/national-general/article/202211301346001
+      - name: Another outlet
+        url: https://example.com/article
+```
+
+When the list is nonempty, `Media Coverage:` appears above comma-separated outlet links. Omit `media` or use `media: []` to hide it.
+
 
 ### Acknowledgements
 
