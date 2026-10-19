@@ -11,5 +11,5 @@ main:
     year: 2026 # Optional: forthcoming, accepted, or a four-digit year
     published_url: https://onlinelibrary.wiley.com/doi/10.1002/jae.70096 # Optional URL for the published version
     media:
-      - name: The Kyunghyang Shinmun (Korean)
+      - name: 경향신문
         url: https://www.khan.co.kr/national/national-general/article/202211301346001

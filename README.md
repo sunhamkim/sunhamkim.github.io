@@ -65,7 +65,7 @@ In `_data/publications.yml`, `_data/ongoing.yml`, or `_data/policy.yml`, add a `
 
 ```yaml
     media:
-      - name: The Kyunghyang Shinmun (Korean)
+      - name: 경향신문
         url: https://www.khan.co.kr/national/national-general/article/202211301346001
       - name: Another outlet
         url: https://example.com/article
