@@ -130,6 +130,8 @@
    @media print, screen and (max-width: 960px) { 
       .topnav #myLinks {
         display: none;
+        /* Desktop links float right; reverse the stack to match their visual order. */
+        flex-direction: column-reverse;
       }
 
       .blank-div {

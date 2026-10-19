@@ -10,12 +10,12 @@ main:
   #- title: "Talks"
   #  url: ./#invited-talks
 
-  - title: "Policy Work"
-    url: ./#policy
-    right: true
-
   - title: "Teaching"
     url: ./#teaching
+    right: true
+
+  - title: "Policy Work"
+    url: ./#policy
 
   - title: "Research"
     url: ./#ongoing

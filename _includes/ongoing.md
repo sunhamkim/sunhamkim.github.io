@@ -1,8 +1,12 @@
 <h1 id="ongoing"></h1>
 
-<h2 style="margin: 0px 0px -15px;">Working Papers</h2>
+<h2 style="margin: 0px 0px 10px;">
+  <button type="button" class="section-toggle" aria-expanded="true" aria-controls="working-papers-content" onclick="toggleSection(this);">
+    Working Papers<span class="section-chevron" aria-hidden="true"></span>
+  </button>
+</h2>
 
-<div class="publications">
+<div id="working-papers-content" class="publications" style="margin-top: 1rem;">
 <ol class="bibliography">
 
 {% for link in site.data.ongoing.main %}

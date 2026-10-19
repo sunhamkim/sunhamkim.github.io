@@ -3,7 +3,7 @@ layout: homepage
 ---
 <div class="blank-div"></div>
 
-## International Trade and Spatial Economics Materials
+<h2 style="margin: 20px 0px 15px;">International Trade and Spatial Economics Materials</h2>
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
 * Slides [(Costas Arkolakis)](https://arkolakis.com/teaching){:target="_blank" rel="noopener"}
@@ -13,7 +13,7 @@ layout: homepage
 ## Computational (Macro) Economics
 * Jesús Fernández-Villaverde's [teaching page](https://www.sas.upenn.edu/~jesusfv/teaching.html){:target="_blank" rel="noopener"} 
 * Benjamin Moll's [teaching page](https://benjaminmoll.com/lectures/){:target="_blank" rel="noopener"} 
-* Makoto Nakajima's [lecture notes](https://makotonakajima.github.io/comp/){:target="_blank" rel="noopener"} 
+* Makoto Nakajima's [lecture notes](https://sites.google.com/view/makotonakajima/computation){:target="_blank" rel="noopener"}
 * Karen Kopecky's [lecture notes](http://www.karenkopecky.net/Teaching/eco613614){:target="_blank" rel="noopener"}
 * Ricardo Marto's [book and lecture notes](https://www.ricardomarto.com/teaching/){:target="_blank" rel="noopener"}
 * Fedor Iskhakov's [website](https://fedor.iskh.me/teaching) and [Youtube lectures](https://www.youtube.com/channel/UCHdkeCMms2wYqwDKHgHIsIA){:target="_blank" rel="noopener"}
@@ -27,7 +27,7 @@ layout: homepage
 
 ## Research Logistics
 * Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
-* Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/workflow/){:target="_blank" rel="noopener"}
+* Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/resources/coding/Price_Best_Practices.pdf){:target="_blank" rel="noopener"}
 * Claude Code Guide [(Pedro Sant'Anna)](https://psantanna.com/claude-code-my-workflow/){:target="_blank" rel="noopener"}
 
 ## Data Sources
@@ -39,7 +39,8 @@ layout: homepage
 * [Markus Eberhardt's Macro Data List](https://sites.google.com/site/medevecon/devecondata/macro){:target="_blank" rel="noopener"}
 * [Peter Schott's Data page](https://sompks4.github.io/sub_data.html){:target="_blank" rel="noopener"}
 * [David Dorn's Data page](http://ddorn.net/data.htm){:target="_blank" rel="noopener"}
-* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
+* [IPUMS](https://www.ipums.org/){:target="_blank" rel="noopener"}
+* [Global Macro Database](https://www.globalmacrodata.com/){:target="_blank" rel="noopener"}
 
 
 <!--- [[back](./)] --->
