@@ -26,6 +26,7 @@
     {% if item.series or item.date %}
     <span class="periodical">{% if item.authors %}<br>{% endif %}{% if item.series %}<em lang="ko">{{ item.series }}</em>{% endif %}{% if item.series and item.date %}, {% endif %}{% if item.date %}{{ item.date }}{% endif %}</span>
     {% endif %}
+    {% include media.html media=item.media %}
     <div class="links">
       {% if item.abstract %}
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>

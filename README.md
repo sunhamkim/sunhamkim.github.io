@@ -59,9 +59,9 @@ The shared `_includes/authors.html` template adds `with`, commas, and `and` auto
 
 In `_data/ongoing.yml`, optionally add `date: "Oct 2026"` to a paper, using the date printed in its draft. The date appears after `authors`, separated by a comma, or after the title, separated by a comma, when there are no coauthors. Put revision or submission information in `status` (displayed in parentheses). Status appears on the same line after the authors and date, or on the line below the title when there are no coauthors. Omit `date` to hide it.
 
-### Media Coverage
+### Media
 
-In `_data/publications.yml` or `_data/ongoing.yml`, add a `media` list to a paper:
+In `_data/publications.yml`, `_data/ongoing.yml`, or `_data/policy.yml`, add a `media` list to an entry:
 
 ```yaml
     media:
@@ -71,7 +71,7 @@ In `_data/publications.yml` or `_data/ongoing.yml`, add a `media` list to a pape
         url: https://example.com/article
 ```
 
-When the list is nonempty, `Media Coverage:` is followed on the same line by comma-separated outlet links. Omit `media` or use `media: []` to hide it.
+When the list is nonempty, `Media:` is followed on the same line by comma-separated outlet links. Omit `media` or use `media: []` to hide it.
 
 
 ### Acknowledgements
