@@ -78,11 +78,7 @@
   <body>
     <div class="topnav">
 
-      <!--- <div id = "logo">
-        <a href="{{ site.canonical }}">{{ site.title }}</a>
-      </div> --->
-
-      <a href="{{ site.canonical }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+      <a class="site-name" href="{{ site.canonical }}">{{ site.title | escape }}</a>
 
       <div id="myLinks">
       {% include navigation.md %}
@@ -131,25 +127,23 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email{% if site.affiliation %} class="profile-email"{% endif %}>{{ site.email }}</email>
         {% endif %}
         {% if site.emailalt %}
         <br>
         <email>{{ site.emailalt }}</email>
         {% endif %}
 
-        <br>
-        <br>
         <div class="social-icons">
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+          <i class="ai ai-google-scholar" style="font-size:1.44rem"></i>
         </a>
         {% endif %}
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+          <i class="ai ai-cv" style="font-size:1.56rem;"></i>
         </a>
         {% endif %}
 
@@ -192,7 +186,7 @@
       </small>
       -->
 
-      <div style="font: 12px/1.2 Crimson Pro, serif">
+      <div style="font: 12px/1.2 Roboto, 'Noto Sans KR', sans-serif">
         <br>
         This is a personal website. The content on this website does not reflect the view of the Korea Development Institute.
         <br>
@@ -201,7 +195,7 @@
 
       </section>
       <footer>
-        <div style="font: 12px/1.2 Crimson Pro, serif">
+        <div style="font: 12px/1.2 Roboto, 'Noto Sans KR', sans-serif">
         <p>
         <small>
         {% if site.imprint %}

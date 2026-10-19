@@ -22,10 +22,21 @@
     display: none;
 }
 
-  .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
-    margin-left:4%;
+  .topnav a.site-name {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 190px;
+    margin-left: 4%;
+    padding: 10px 0;
+    color: #fff;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.5px;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: top;
   }
   
   /* Style the links inside the navigation bar */
@@ -161,8 +172,8 @@
 
 /* Match the center of the profile column in the two-column layout. */
 @media screen and (min-width: 961px) {
-  .topnav img {
-    width: 190px;
+  .topnav a.site-name {
+    text-align: center;
     margin-left: calc((100% - var(--content-width)) / 2 + var(--profile-column-width) / 2 - 95px);
   }
 }

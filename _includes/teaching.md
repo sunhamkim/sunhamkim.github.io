@@ -48,10 +48,12 @@
 <!-- Optional CSS for button styling -->
 <style>
   .custom-toggle-button {
+    margin-left: 6px;
+    font-weight: 400;
     font-size: 12px;
     color: #000000;
     border: 0.5px solid #000000;
-    padding-left: 0.25rem;
-    padding-right: 0.25rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
   }
 </style>
