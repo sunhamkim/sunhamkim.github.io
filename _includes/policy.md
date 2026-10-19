@@ -1,13 +1,12 @@
 <h1 id="policy"></h1>
 
 <h2 style="margin: 0px 0px 10px;">
-  Policy Work
-  <a href="#" class="btn btn-sm z-depth-0 custom-toggle-button" role="button" onclick="event.preventDefault(); toggleSection(this, 'policy-content');">
-    Expand
-  </a>
+  <button type="button" class="section-toggle" aria-expanded="false" aria-controls="policy-content" onclick="toggleSection(this);">
+    Policy Work<span class="section-chevron" aria-hidden="true"></span>
+  </button>
 </h2>
 
-<div id="policy-content" style="display:none;">
+<div id="policy-content" hidden>
 <div class="publications">
 <ol class="bibliography">
 

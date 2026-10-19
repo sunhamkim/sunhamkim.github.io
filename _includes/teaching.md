@@ -1,13 +1,12 @@
 <h1 id="teaching"></h1>
 
 <h2 style="margin: 0px 0px 10px;">
-    Teaching
-    <a href="#" class="btn btn-sm z-depth-0 custom-toggle-button" role="button" onclick="event.preventDefault(); toggleSection(this, 'teaching-content');">
-        Expand
-    </a>
+  <button type="button" class="section-toggle" aria-expanded="false" aria-controls="teaching-content" onclick="toggleSection(this);">
+    Teaching<span class="section-chevron" aria-hidden="true"></span>
+  </button>
 </h2>
 
-<div id="teaching-content" style="display:none;">
+<div id="teaching-content" hidden>
   <!-- Purdue University Section -->
   <h4 style="margin:0 10px 0;">Instructor, Purdue University</h4>
   <ul style="margin:0 0 5px;">
@@ -31,29 +30,12 @@
   </ul>
 </div>
 
-<!-- JavaScript to toggle the section -->
 <script>
-  function toggleSection(button, contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === "none" || content.style.display === "") {
-      content.style.display = "block";
-      button.innerHTML = "Collapse";
-    } else {
-      content.style.display = "none";
-      button.innerHTML = "Expand";
-    }
+  function toggleSection(button) {
+    var content = document.getElementById(button.getAttribute('aria-controls'));
+    if (!content) return;
+    var expanded = button.getAttribute('aria-expanded') === 'true';
+    content.hidden = expanded;
+    button.setAttribute('aria-expanded', String(!expanded));
   }
 </script>
-
-<!-- Optional CSS for button styling -->
-<style>
-  .custom-toggle-button {
-    margin-left: 6px;
-    font-weight: 400;
-    font-size: 12px;
-    color: #000000;
-    border: 0.5px solid #000000;
-    padding-left: 0.4rem;
-    padding-right: 0.4rem;
-  }
-</style>

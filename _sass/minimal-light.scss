@@ -291,3 +291,34 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 @media print, screen and (max-width: 480px) {
   .mantra-line { margin-left: 0; }
 }
+
+/* Section headings double as accessible disclosure controls. */
+.section-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.section-toggle:hover { opacity: 0.75; }
+.section-toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+.section-chevron {
+  width: 0.3em;
+  height: 0.3em;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translateY(-0.1em) rotate(45deg);
+}
+.section-toggle[aria-expanded="true"] .section-chevron {
+  transform: translateY(0.1em) rotate(225deg);
+}
+
+#teaching-content ul { font-weight: 300; }
