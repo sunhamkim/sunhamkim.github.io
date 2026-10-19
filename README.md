@@ -42,9 +42,22 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the html files in `_site` folder.
 
+### Coauthors
+
+In `_data/ongoing.yml` and `_data/publications.yml`, list coauthors with a required `name` and optional `url`:
+
+```yaml
+    authors:
+      - name: Chong Xiang
+        url: https://sites.google.com/view/chongxiang/home
+      - name: Soojin Kim
+```
+
+The shared `_includes/authors.html` template adds `with`, commas, and `and` automatically. Names with a URL open in a new tab using `target="_blank"` and `rel="noopener"`; names without a URL appear as plain text. Omit `authors` or use `authors: []` for solo papers.
+
 ### Working Paper Dates
 
-In `_data/ongoing.yml`, optionally add `date: "Oct 2026"` to a paper, using the date printed in its draft. The date appears after `authors`, separated by a comma, or after the title, separated by a comma, when there are no coauthors. Keep the `with` prefix in `authors`; put revision or submission information in `status`. Status appears on the same line after the authors and date, or on the line below the title when there are no coauthors. Omit `date` to hide it.
+In `_data/ongoing.yml`, optionally add `date: "Oct 2026"` to a paper, using the date printed in its draft. The date appears after `authors`, separated by a comma, or after the title, separated by a comma, when there are no coauthors. Put revision or submission information in `status` (displayed in parentheses). Status appears on the same line after the authors and date, or on the line below the title when there are no coauthors. Omit `date` to hide it.
 
 ### Media Coverage
 

@@ -9,13 +9,13 @@
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
-      {% if link.authors %}
-      <div class="author" style="display: inline;">{{ link.authors }}</div>
+      {% if link.authors.size > 0 %}
+      <div class="author" style="display: inline;">{% include authors.html authors=link.authors %}</div>
       {% endif %}
       {% if link.oldtitle %}
-      <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
+      <span class="oldtitle">{% if link.authors.size > 0 %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
       {% endif %}
-      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em><strong style="color:var(--global-theme-color); font-weight:600">{{ link.journal }}</strong>{% if link.year and link.year != empty %}, {{ link.year }}{% endif %}</em></span>
+      <span class="periodical">{% if link.authors.size > 0 or link.oldtitle %}<br>{% endif %}<em><strong style="color:var(--global-theme-color); font-weight:600">{{ link.journal }}</strong>{% if link.year and link.year != empty %}, {{ link.year }}{% endif %}</em></span>
       {% include media.html media=link.media %}
     <div class="links">
       {% if link.abstract %} 

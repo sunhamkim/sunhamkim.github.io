@@ -1,0 +1,3 @@
+{%- if include.authors.size > 0 -%}
+with {% for author in include.authors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{% if author.url and author.url != empty %}<a href="{{ author.url | escape }}" target="_blank" rel="noopener">{{ author.name | escape }}</a>{% else %}{{ author.name | escape }}{% endif %}{% endfor %}
+{%- endif -%}

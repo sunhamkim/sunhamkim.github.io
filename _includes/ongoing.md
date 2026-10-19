@@ -10,9 +10,9 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}{% unless link.authors %}{% if link.date %}, {{ link.date }}{% endif %}{% endunless %}</div>
-      {% if link.authors %}
-      <div class="author" style="display: inline;">{{ link.authors }}{% if link.date %}, {{ link.date }}{% endif %}</div>
+      <div class="title">{{ link.title }}{% unless link.authors.size > 0 %}{% if link.date %}, {{ link.date }}{% endif %}{% endunless %}</div>
+      {% if link.authors.size > 0 %}
+      <div class="author" style="display: inline;">{% include authors.html authors=link.authors %}{% if link.date %}, {{ link.date }}{% endif %}</div>
       {% endif %}
       {% if link.status %}
       <span class="periodical"><em>({{ link.status }})</em></span>
