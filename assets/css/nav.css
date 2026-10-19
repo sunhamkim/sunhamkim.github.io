@@ -25,7 +25,7 @@
   .topnav img {
     margin-bottom:-16.5pt;
     margin-top:-12.5pt;
-    margin-left:33%;
+    margin-left:4%;
   }
   
   /* Style the links inside the navigation bar */
@@ -51,9 +51,6 @@
 
   @media print, screen and (max-width: 1000px) { 
 
-    .topnav img {
-        margin-left:4%;
-      }
 
     .topnav a.right {
         margin-right:4%;
@@ -67,9 +64,6 @@
 
    @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
 
-    .topnav img {
-        margin-left:12%;
-      }
     .topnav a.right {
         margin-right:12%;
       }
@@ -78,9 +72,6 @@
 
    @media print, screen and (max-width: 1400px) and (min-width: 1201px) { 
 
-    .topnav img {
-        margin-left:18%;
-      }
     .topnav a.right {
         margin-right:18%;
       }
@@ -90,9 +81,6 @@
 
    @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
-    .topnav img {
-        margin-left:22%;
-      }
     .topnav a.right {
         margin-right:22%;
       }
@@ -101,9 +89,6 @@
 
    @media print, screen and (max-width: 1800px) and (min-width: 1601px) { 
 
-    .topnav img {
-        margin-left:25%;
-      }
     .topnav a.right {
         margin-right:25%;
       }
@@ -112,9 +97,6 @@
 
    @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
 
-    .topnav img {
-        margin-left:29%;
-      }
     .topnav a.right {
         margin-right:29%;
       }
@@ -176,3 +158,11 @@
    }
    
 
+
+/* Match the center of the profile column in the two-column layout. */
+@media screen and (min-width: 961px) {
+  .topnav img {
+    width: 190px;
+    margin-left: calc((100% - var(--content-width)) / 2 + var(--profile-column-width) / 2 - 95px);
+  }
+}

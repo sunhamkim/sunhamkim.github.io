@@ -2,6 +2,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 
+:root {
+  --content-width: 960px;
+  --profile-column-width: 232px;
+}
+
 body {
   background-color: #fff;
   padding: 0px;
@@ -184,7 +189,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 960px; margin: 0 auto; }
+.wrapper { width: var(--content-width); margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -212,7 +217,7 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 5.5em; text-align: center; }
+header { width: var(--profile-column-width); float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 5.5em; text-align: center; }
 
 header ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
