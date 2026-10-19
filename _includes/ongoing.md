@@ -10,15 +10,12 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
+      <div class="title">{{ link.title }}{% unless link.authors %}{% if link.date %}, {{ link.date }}{% endif %}{% endunless %}</div>
       {% if link.authors %}
-      <div class="author" style="display: inline;">{{ link.authors }}</div>
-      {% endif %}
-      {% if link.oldtitle %}
-      <span class="oldtitle">{% if link.authors %}<br>{% endif %}previously, <i>{{ link.oldtitle }}</i></span>
+      <div class="author" style="display: inline;">{{ link.authors }}{% if link.date %}, {{ link.date }}{% endif %}</div>
       {% endif %}
       {% if link.status %}
-      <span class="periodical">{% if link.authors or link.oldtitle %}<br>{% endif %}<em>{{ link.status }}</em></span>
+      <span class="periodical"><em>({{ link.status }})</em></span>
       {% endif %}
       {% include media.html media=link.media %}
     <div class="links">
