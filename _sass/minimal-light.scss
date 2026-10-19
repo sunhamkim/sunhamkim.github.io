@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 
 :root {
+  --text-font: Roboto, "Noto Sans KR", sans-serif;
   --content-width: 960px;
   --profile-column-width: 232px;
 }
@@ -10,7 +11,7 @@
 body {
   background-color: #fff;
   padding: 0px;
-  font: 15.0px/1.5 Roboto, "Noto Sans KR", sans-serif;
+  font: 15.0px/1.5 var(--text-font);
   font-size-adjust: from-font;
   color:#595959;
   font-weight: 400;

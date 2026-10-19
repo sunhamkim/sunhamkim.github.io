@@ -1,0 +1,20 @@
+홈페이지 폰트 프리셋 메모
+기록일: 2026-10-20
+용도: 비교·회고용 기록. 사이트 설정에서 읽는 파일이 아님.
+
+1. 현재 조합
+- 영문: Atkinson Hyperlegible Next
+- 숫자 0–9: Titillium Web
+- 한글: Noto Sans KR
+- 숫자 전용 폰트를 unicode-range: U+0030-0039로 제한하고 폰트 목록 맨 앞에 배치.
+- Titillium Web은 500 굵기를 제공하지 않으므로 해당 값은 브라우저에서 지원 굵기로 매칭됨.
+
+2. Roboto 조합
+- 영문: Roboto
+- 숫자 0–9: Roboto (숫자 전용 폰트 분리 없음)
+- 한글: Noto Sans KR
+
+공통 사항
+- 기존 요소별 font-weight 및 크기·간격 설정 유지.
+- 상단 이름은 일반 텍스트로, 본문 폰트 조합을 따름.
+- 이메일은 Ubuntu Mono, 코드·아이콘은 각각 기존 전용 글꼴 유지.
